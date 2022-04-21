@@ -1,0 +1,79 @@
+[{
+        "_id": 1,
+        "word": "kaip",
+        "stress": "kaĩp",
+        "transcription": "kaip",
+        "translations": [{
+                "ru": "как"
+            }, {
+                "en": "how, what"
+            }
+        ],
+        "usages": [{
+                "en": "kaip gyvenate [kaĩp gyvẽnate] - how are you"
+            }
+        ]
+    }, {
+        "_id": 2,
+        "word": "aš",
+        "stress": "àš",
+        "transcription": "aʃ",
+        "translations": [{
+                "ru": "я"
+            }, {
+                "en": "I"
+            }
+        ],
+        "usages": [{
+                "en": "aš jau turiu eiti [àš jaũ turiù eĩti] - I have to go now"
+            }
+        ]
+    }, {
+        "_id": 3,
+        "word": "jo",
+        "stress": "jõ",
+        "transcription": "joː",
+        "translations": [{
+                "ru": "его"
+            }, {
+                "en": "his"
+            }
+        ]
+    }, {
+        "_id": 4,
+        "word": "kad",
+        "stress": "kàd",
+        "transcription": "kat",
+        "translations": [{
+                "ru": "что"
+            }, {
+                "ru": "чтобы"
+            }, {
+                "ru": "если"
+            }, {
+                "en": "that"
+            }, {
+                "en": "if"
+            }
+        ],
+        "usages": [{
+                "en": "aš jam pasakysiu, kad jis tau paskambintų [àš jám pasakýsiu, kàd jìs táu paskam̃bintų] - I'll tell him to call you"
+            }
+        ]
+    }, {
+        "_id": 5,
+        "word": "jis",
+        "stress": "jìs",
+        "transcription": "jis",
+        "translations": [{
+                "ru": "он"
+            }, {
+                "en": "he"
+            }
+        ],
+        "usages": [{
+                "en": "jis išėjo [jìs išė̃jo] - he's gone"
+            }
+        ]
+    }
+]

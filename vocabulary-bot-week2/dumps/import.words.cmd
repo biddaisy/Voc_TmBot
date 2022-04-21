@@ -1,0 +1,1 @@
+mongoimport --drop --jsonArray --host localhost --port 27017 -d vocabulary_DB  --file words.json --collection words 

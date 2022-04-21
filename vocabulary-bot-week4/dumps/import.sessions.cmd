@@ -1,0 +1,1 @@
+mongoimport --drop --jsonArray --host wandering-sun-vs.icdc.io --port 27017 --username XXXXX --password YYYYYYYY -d ZZZZZZ_DB  --file sessions.json --collection sessions --authenticationDatabase admin

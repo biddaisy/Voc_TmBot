@@ -1,0 +1,1 @@
+mongoimport --drop --jsonArray --host <host> --port <port> --username <user> --password <pass> -d user10_DB  --file sessions.json --collection sessions --authenticationDatabase admin

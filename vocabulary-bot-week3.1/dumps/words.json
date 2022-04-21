@@ -1,0 +1,7002 @@
+[{
+        "_id": 1,
+        "word": "ut",
+        "translations": [{
+                "en": "as"
+            }
+        ]
+    }, {
+        "_id": 2,
+        "word": "sum",
+        "translations": [{
+                "en": "I"
+            }
+        ]
+    }, {
+        "_id": 3,
+        "word": "eius",
+        "translations": [{
+                "en": "his"
+            }
+        ]
+    }, {
+        "_id": 4,
+        "word": "quod",
+        "translations": [{
+                "en": "that"
+            }
+        ]
+    }, {
+        "_id": 5,
+        "word": "ipse",
+        "translations": [{
+                "en": "he"
+            }
+        ]
+    }, {
+        "_id": 6,
+        "word": "fuit",
+        "translations": [{
+                "en": "was"
+            }
+        ]
+    }, {
+        "_id": 7,
+        "word": "nam",
+        "translations": [{
+                "en": "for"
+            }
+        ]
+    }, {
+        "_id": 8,
+        "word": "in",
+        "translations": [{
+                "en": "on"
+            }
+        ]
+    }, {
+        "_id": 9,
+        "word": "sunt,",
+        "translations": [{
+                "en": "are"
+            }
+        ]
+    }, {
+        "_id": 10,
+        "word": "cum",
+        "translations": [{
+                "en": "with"
+            }
+        ]
+    }, {
+        "_id": 11,
+        "word": "illi",
+        "translations": [{
+                "en": "they"
+            }
+        ]
+    }, {
+        "_id": 12,
+        "word": "esse",
+        "translations": [{
+                "en": "be"
+            }
+        ]
+    }, {
+        "_id": 13,
+        "word": "at",
+        "translations": [{
+                "en": "at"
+            }
+        ]
+    }, {
+        "_id": 14,
+        "word": "unum",
+        "translations": [{
+                "en": "one"
+            }
+        ]
+    }, {
+        "_id": 15,
+        "word": "habent",
+        "translations": [{
+                "en": "have"
+            }
+        ]
+    }, {
+        "_id": 16,
+        "word": "hoc",
+        "translations": [{
+                "en": "this"
+            }
+        ]
+    }, {
+        "_id": 17,
+        "word": "de",
+        "translations": [{
+                "en": "from"
+            }
+        ]
+    }, {
+        "_id": 18,
+        "word": "by",
+        "translations": [{
+                "en": "by"
+            }
+        ]
+    }, {
+        "_id": 19,
+        "word": "calidum",
+        "translations": [{
+                "en": "hot"
+            }
+        ]
+    }, {
+        "_id": 20,
+        "word": "verbo,",
+        "translations": [{
+                "en": "word"
+            }
+        ]
+    }, {
+        "_id": 21,
+        "word": "sed",
+        "translations": [{
+                "en": "but"
+            }
+        ]
+    }, {
+        "_id": 22,
+        "word": "quod",
+        "translations": [{
+                "en": "what"
+            }
+        ]
+    }, {
+        "_id": 23,
+        "word": "aliqua",
+        "translations": [{
+                "en": "some"
+            }
+        ]
+    }, {
+        "_id": 24,
+        "word": "est",
+        "translations": [{
+                "en": "is"
+            }
+        ]
+    }, {
+        "_id": 25,
+        "word": "quod",
+        "translations": [{
+                "en": "it"
+            }
+        ]
+    }, {
+        "_id": 26,
+        "word": "vos,",
+        "translations": [{
+                "en": "you"
+            }
+        ]
+    }, {
+        "_id": 27,
+        "word": "vel",
+        "translations": [{
+                "en": "or"
+            }
+        ]
+    }, {
+        "_id": 28,
+        "word": "quod",
+        "translations": [{
+                "en": "had"
+            }
+        ]
+    }, {
+        "_id": 29,
+        "word": "in",
+        "translations": [{
+                "en": "the"
+            }
+        ]
+    }, {
+        "_id": 30,
+        "word": "de",
+        "translations": [{
+                "en": "of"
+            }
+        ]
+    }, {
+        "_id": 31,
+        "word": "ut",
+        "translations": [{
+                "en": "to"
+            }
+        ]
+    }, {
+        "_id": 32,
+        "word": "et",
+        "translations": [{
+                "en": "and"
+            }
+        ]
+    }, {
+        "_id": 33,
+        "word": "a",
+        "translations": [{
+                "en": "a"
+            }
+        ]
+    }, {
+        "_id": 34,
+        "word": "in",
+        "translations": [{
+                "en": "in"
+            }
+        ]
+    }, {
+        "_id": 35,
+        "word": "nos",
+        "translations": [{
+                "en": "we"
+            }
+        ]
+    }, {
+        "_id": 36,
+        "word": "potest",
+        "translations": [{
+                "en": "can"
+            }
+        ]
+    }, {
+        "_id": 37,
+        "word": "ex",
+        "translations": [{
+                "en": "out"
+            }
+        ]
+    }, {
+        "_id": 38,
+        "word": "alia",
+        "translations": [{
+                "en": "other"
+            }
+        ]
+    }, {
+        "_id": 39,
+        "word": "erant",
+        "translations": [{
+                "en": "were"
+            }
+        ]
+    }, {
+        "_id": 40,
+        "word": "quibus",
+        "translations": [{
+                "en": "which"
+            }
+        ]
+    }, {
+        "_id": 41,
+        "word": "facite",
+        "translations": [{
+                "en": "do"
+            }
+        ]
+    }, {
+        "_id": 42,
+        "word": "eorum",
+        "translations": [{
+                "en": "their"
+            }
+        ]
+    }, {
+        "_id": 43,
+        "word": "tempore",
+        "translations": [{
+                "en": "time"
+            }
+        ]
+    }, {
+        "_id": 44,
+        "word": "si",
+        "translations": [{
+                "en": "if"
+            }
+        ]
+    }, {
+        "_id": 45,
+        "word": "voluntas",
+        "translations": [{
+                "en": "will"
+            }
+        ]
+    }, {
+        "_id": 46,
+        "word": "quam",
+        "translations": [{
+                "en": "how"
+            }
+        ]
+    }, {
+        "_id": 47,
+        "word": "Dixitque",
+        "translations": [{
+                "en": "said"
+            }
+        ]
+    }, {
+        "_id": 48,
+        "word": "an",
+        "translations": [{
+                "en": "an"
+            }
+        ]
+    }, {
+        "_id": 49,
+        "word": "quisque",
+        "translations": [{
+                "en": "each"
+            }
+        ]
+    }, {
+        "_id": 50,
+        "word": "indica",
+        "translations": [{
+                "en": "tell"
+            }
+        ]
+    }, {
+        "_id": 51,
+        "word": "quod",
+        "translations": [{
+                "en": "does"
+            }
+        ]
+    }, {
+        "_id": 52,
+        "word": "set",
+        "translations": [{
+                "en": "set"
+            }
+        ]
+    }, {
+        "_id": 53,
+        "word": "tribus",
+        "translations": [{
+                "en": "three"
+            }
+        ]
+    }, {
+        "_id": 54,
+        "word": "volo",
+        "translations": [{
+                "en": "want"
+            }
+        ]
+    }, {
+        "_id": 55,
+        "word": "aer,",
+        "translations": [{
+                "en": "air"
+            }
+        ]
+    }, {
+        "_id": 56,
+        "word": "etiam",
+        "translations": [{
+                "en": "well"
+            }
+        ]
+    }, {
+        "_id": 57,
+        "word": "etiam",
+        "translations": [{
+                "en": "also"
+            }
+        ]
+    }, {
+        "_id": 58,
+        "word": "fabula",
+        "translations": [{
+                "en": "play"
+            }
+        ]
+    }, {
+        "_id": 59,
+        "word": "parva",
+        "translations": [{
+                "en": "small"
+            }
+        ]
+    }, {
+        "_id": 60,
+        "word": "finem",
+        "translations": [{
+                "en": "end"
+            }
+        ]
+    }, {
+        "_id": 61,
+        "word": "posuit",
+        "translations": [{
+                "en": "put"
+            }
+        ]
+    }, {
+        "_id": 62,
+        "word": "domum",
+        "translations": [{
+                "en": "home"
+            }
+        ]
+    }, {
+        "_id": 63,
+        "word": "lego",
+        "translations": [{
+                "en": "read"
+            }
+        ]
+    }, {
+        "_id": 64,
+        "word": "manibus",
+        "translations": [{
+                "en": "hand"
+            }
+        ]
+    }, {
+        "_id": 65,
+        "word": "portus,",
+        "translations": [{
+                "en": "port"
+            }
+        ]
+    }, {
+        "_id": 66,
+        "word": "magna",
+        "translations": [{
+                "en": "large"
+            }
+        ]
+    }, {
+        "_id": 67,
+        "word": "eamque",
+        "translations": [{
+                "en": "spell"
+            }
+        ]
+    }, {
+        "_id": 68,
+        "word": "addunt",
+        "translations": [{
+                "en": "add"
+            }
+        ]
+    }, {
+        "_id": 69,
+        "word": "etiam",
+        "translations": [{
+                "en": "even"
+            }
+        ]
+    }, {
+        "_id": 70,
+        "word": "terra,",
+        "translations": [{
+                "en": "land"
+            }
+        ]
+    }, {
+        "_id": 71,
+        "word": "hic",
+        "translations": [{
+                "en": "here"
+            }
+        ]
+    }, {
+        "_id": 72,
+        "word": "necesse",
+        "translations": [{
+                "en": "must"
+            }
+        ]
+    }, {
+        "_id": 73,
+        "word": "magnum",
+        "translations": [{
+                "en": "big"
+            }
+        ]
+    }, {
+        "_id": 74,
+        "word": "princeps",
+        "translations": [{
+                "en": "high"
+            }
+        ]
+    }, {
+        "_id": 75,
+        "word": "talis",
+        "translations": [{
+                "en": "such"
+            }
+        ]
+    }, {
+        "_id": 76,
+        "word": "sequitur",
+        "translations": [{
+                "en": "follow"
+            }
+        ]
+    }, {
+        "_id": 77,
+        "word": "actum,",
+        "translations": [{
+                "en": "act"
+            }
+        ]
+    }, {
+        "_id": 78,
+        "word": "quid",
+        "translations": [{
+                "en": "why"
+            }
+        ]
+    }, {
+        "_id": 79,
+        "word": "quaeris",
+        "translations": [{
+                "en": "ask"
+            }
+        ]
+    }, {
+        "_id": 80,
+        "word": "homines",
+        "translations": [{
+                "en": "men"
+            }
+        ]
+    }, {
+        "_id": 81,
+        "word": "mutatio",
+        "translations": [{
+                "en": "change"
+            }
+        ]
+    }, {
+        "_id": 82,
+        "word": "abiit",
+        "translations": [{
+                "en": "went"
+            }
+        ]
+    }, {
+        "_id": 83,
+        "word": "lucem",
+        "translations": [{
+                "en": "light"
+            }
+        ]
+    }, {
+        "_id": 84,
+        "word": "quaedam",
+        "translations": [{
+                "en": "kind"
+            }
+        ]
+    }, {
+        "_id": 85,
+        "word": "off",
+        "translations": [{
+                "en": "off"
+            }
+        ]
+    }, {
+        "_id": 86,
+        "word": "opus",
+        "translations": [{
+                "en": "need"
+            }
+        ]
+    }, {
+        "_id": 87,
+        "word": "domus",
+        "translations": [{
+                "en": "house"
+            }
+        ]
+    }, {
+        "_id": 88,
+        "word": "ipsum",
+        "translations": [{
+                "en": "picture"
+            }
+        ]
+    }, {
+        "_id": 89,
+        "word": "tentant",
+        "translations": [{
+                "en": "try"
+            }
+        ]
+    }, {
+        "_id": 90,
+        "word": "nos",
+        "translations": [{
+                "en": "us"
+            }
+        ]
+    }, {
+        "_id": 91,
+        "word": "rursus",
+        "translations": [{
+                "en": "again"
+            }
+        ]
+    }, {
+        "_id": 92,
+        "word": "pecus",
+        "translations": [{
+                "en": "animal"
+            }
+        ]
+    }, {
+        "_id": 93,
+        "word": "punctum",
+        "translations": [{
+                "en": "point"
+            }
+        ]
+    }, {
+        "_id": 94,
+        "word": "mater,",
+        "translations": [{
+                "en": "mother"
+            }
+        ]
+    }, {
+        "_id": 95,
+        "word": "orbis",
+        "translations": [{
+                "en": "world"
+            }
+        ]
+    }, {
+        "_id": 96,
+        "word": "prope",
+        "translations": [{
+                "en": "near"
+            }
+        ]
+    }, {
+        "_id": 97,
+        "word": "ædificabis",
+        "translations": [{
+                "en": "build"
+            }
+        ]
+    }, {
+        "_id": 98,
+        "word": "ipsum",
+        "translations": [{
+                "en": "self"
+            }
+        ]
+    }, {
+        "_id": 99,
+        "word": "terra,",
+        "translations": [{
+                "en": "earth"
+            }
+        ]
+    }, {
+        "_id": 100,
+        "word": "pater,",
+        "translations": [{
+                "en": "father"
+            }
+        ]
+    }, {
+        "_id": 101,
+        "word": "aliqua",
+        "translations": [{
+                "en": "any"
+            }
+        ]
+    }, {
+        "_id": 102,
+        "word": "novum",
+        "translations": [{
+                "en": "new"
+            }
+        ]
+    }, {
+        "_id": 103,
+        "word": "opus",
+        "translations": [{
+                "en": "work"
+            }
+        ]
+    }, {
+        "_id": 104,
+        "word": "pars,",
+        "translations": [{
+                "en": "part"
+            }
+        ]
+    }, {
+        "_id": 105,
+        "word": "accipe",
+        "translations": [{
+                "en": "take"
+            }
+        ]
+    }, {
+        "_id": 106,
+        "word": "adepto",
+        "translations": [{
+                "en": "get"
+            }
+        ]
+    }, {
+        "_id": 107,
+        "word": "pro eo",
+        "translations": [{
+                "en": "place"
+            }
+        ]
+    }, {
+        "_id": 108,
+        "word": "factum",
+        "translations": [{
+                "en": "made"
+            }
+        ]
+    }, {
+        "_id": 109,
+        "word": "vivo",
+        "translations": [{
+                "en": "live"
+            }
+        ]
+    }, {
+        "_id": 110,
+        "word": "ubi",
+        "translations": [{
+                "en": "where"
+            }
+        ]
+    }, {
+        "_id": 111,
+        "word": "postquam",
+        "translations": [{
+                "en": "after"
+            }
+        ]
+    }, {
+        "_id": 112,
+        "word": "rursus",
+        "translations": [{
+                "en": "back"
+            }
+        ]
+    }, {
+        "_id": 113,
+        "word": "parum",
+        "translations": [{
+                "en": "little"
+            }
+        ]
+    }, {
+        "_id": 114,
+        "word": "nisi",
+        "translations": [{
+                "en": "only"
+            }
+        ]
+    }, {
+        "_id": 115,
+        "word": "per",
+        "translations": [{
+                "en": "round"
+            }
+        ]
+    }, {
+        "_id": 116,
+        "word": "hominis",
+        "translations": [{
+                "en": "man"
+            }
+        ]
+    }, {
+        "_id": 117,
+        "word": "anno",
+        "translations": [{
+                "en": "year"
+            }
+        ]
+    }, {
+        "_id": 118,
+        "word": "factum",
+        "translations": [{
+                "en": "came"
+            }
+        ]
+    }, {
+        "_id": 119,
+        "word": "ostende",
+        "translations": [{
+                "en": "show"
+            }
+        ]
+    }, {
+        "_id": 120,
+        "word": "omnis",
+        "translations": [{
+                "en": "every"
+            }
+        ]
+    }, {
+        "_id": 121,
+        "word": "bonum,",
+        "translations": [{
+                "en": "good"
+            }
+        ]
+    }, {
+        "_id": 122,
+        "word": "me",
+        "translations": [{
+                "en": "me"
+            }
+        ]
+    }, {
+        "_id": 123,
+        "word": "dabit",
+        "translations": [{
+                "en": "give"
+            }
+        ]
+    }, {
+        "_id": 124,
+        "word": "nostrum",
+        "translations": [{
+                "en": "our"
+            }
+        ]
+    }, {
+        "_id": 125,
+        "word": "sub",
+        "translations": [{
+                "en": "under"
+            }
+        ]
+    }, {
+        "_id": 126,
+        "word": "nomen",
+        "translations": [{
+                "en": "name"
+            }
+        ]
+    }, {
+        "_id": 127,
+        "word": "ipsum",
+        "translations": [{
+                "en": "very"
+            }
+        ]
+    }, {
+        "_id": 128,
+        "word": "per",
+        "translations": [{
+                "en": "through"
+            }
+        ]
+    }, {
+        "_id": 129,
+        "word": "iustus",
+        "translations": [{
+                "en": "just"
+            }
+        ]
+    }, {
+        "_id": 130,
+        "word": "forma,",
+        "translations": [{
+                "en": "form"
+            }
+        ]
+    }, {
+        "_id": 131,
+        "word": "sententia",
+        "translations": [{
+                "en": "sentence"
+            }
+        ]
+    }, {
+        "_id": 132,
+        "word": "magna",
+        "translations": [{
+                "en": "great"
+            }
+        ]
+    }, {
+        "_id": 133,
+        "word": "puto",
+        "translations": [{
+                "en": "think"
+            }
+        ]
+    }, {
+        "_id": 134,
+        "word": "dicunt",
+        "translations": [{
+                "en": "say"
+            }
+        ]
+    }, {
+        "_id": 135,
+        "word": "adiuva",
+        "translations": [{
+                "en": "help"
+            }
+        ]
+    }, {
+        "_id": 136,
+        "word": "humilis,",
+        "translations": [{
+                "en": "low"
+            }
+        ]
+    }, {
+        "_id": 137,
+        "word": "line",
+        "translations": [{
+                "en": "line"
+            }
+        ]
+    }, {
+        "_id": 138,
+        "word": "differunt,",
+        "translations": [{
+                "en": "differ"
+            }
+        ]
+    }, {
+        "_id": 139,
+        "word": "vicissim",
+        "translations": [{
+                "en": "turn"
+            }
+        ]
+    }, {
+        "_id": 140,
+        "word": "causa,",
+        "translations": [{
+                "en": "cause"
+            }
+        ]
+    }, {
+        "_id": 141,
+        "word": "tantum",
+        "translations": [{
+                "en": "much"
+            }
+        ]
+    }, {
+        "_id": 142,
+        "word": "significant",
+        "translations": [{
+                "en": "mean"
+            }
+        ]
+    }, {
+        "_id": 143,
+        "word": "antequam",
+        "translations": [{
+                "en": "before"
+            }
+        ]
+    }, {
+        "_id": 144,
+        "word": "movemur",
+        "translations": [{
+                "en": "move"
+            }
+        ]
+    }, {
+        "_id": 145,
+        "word": "ius",
+        "translations": [{
+                "en": "right"
+            }
+        ]
+    }, {
+        "_id": 146,
+        "word": "puer,",
+        "translations": [{
+                "en": "boy"
+            }
+        ]
+    }, {
+        "_id": 147,
+        "word": "Vetus",
+        "translations": [{
+                "en": "old"
+            }
+        ]
+    }, {
+        "_id": 148,
+        "word": "etiam",
+        "translations": [{
+                "en": "too"
+            }
+        ]
+    }, {
+        "_id": 149,
+        "word": "idem",
+        "translations": [{
+                "en": "same"
+            }
+        ]
+    }, {
+        "_id": 150,
+        "word": "quae",
+        "translations": [{
+                "en": "she"
+            }
+        ]
+    }, {
+        "_id": 151,
+        "word": "omnes",
+        "translations": [{
+                "en": "all"
+            }
+        ]
+    }, {
+        "_id": 152,
+        "word": "ibi",
+        "translations": [{
+                "en": "there"
+            }
+        ]
+    }, {
+        "_id": 153,
+        "word": "cum",
+        "translations": [{
+                "en": "when"
+            }
+        ]
+    }, {
+        "_id": 154,
+        "word": "ascendit",
+        "translations": [{
+                "en": "up"
+            }
+        ]
+    }, {
+        "_id": 155,
+        "word": "usus,",
+        "translations": [{
+                "en": "use"
+            }
+        ]
+    }, {
+        "_id": 156,
+        "word": "tuus",
+        "translations": [{
+                "en": "your"
+            }
+        ]
+    }, {
+        "_id": 157,
+        "word": "modo",
+        "translations": [{
+                "en": "way"
+            }
+        ]
+    }, {
+        "_id": 158,
+        "word": "de",
+        "translations": [{
+                "en": "about"
+            }
+        ]
+    }, {
+        "_id": 159,
+        "word": "multis",
+        "translations": [{
+                "en": "many"
+            }
+        ]
+    }, {
+        "_id": 160,
+        "word": "tunc",
+        "translations": [{
+                "en": "then"
+            }
+        ]
+    }, {
+        "_id": 161,
+        "word": "eorum",
+        "translations": [{
+                "en": "them"
+            }
+        ]
+    }, {
+        "_id": 162,
+        "word": "scribo",
+        "translations": [{
+                "en": "write"
+            }
+        ]
+    }, {
+        "_id": 163,
+        "word": "utinam",
+        "translations": [{
+                "en": "would"
+            }
+        ]
+    }, {
+        "_id": 164,
+        "word": "sicut",
+        "translations": [{
+                "en": "like"
+            }
+        ]
+    }, {
+        "_id": 165,
+        "word": "ita",
+        "translations": [{
+                "en": "so"
+            }
+        ]
+    }, {
+        "_id": 166,
+        "word": "haec",
+        "translations": [{
+                "en": "these"
+            }
+        ]
+    }, {
+        "_id": 167,
+        "word": "eius",
+        "translations": [{
+                "en": "her"
+            }
+        ]
+    }, {
+        "_id": 168,
+        "word": "longis",
+        "translations": [{
+                "en": "long"
+            }
+        ]
+    }, {
+        "_id": 169,
+        "word": "fac",
+        "translations": [{
+                "en": "make"
+            }
+        ]
+    }, {
+        "_id": 170,
+        "word": "aliquid",
+        "translations": [{
+                "en": "thing"
+            }
+        ]
+    }, {
+        "_id": 171,
+        "word": "video",
+        "translations": [{
+                "en": "see"
+            }
+        ]
+    }, {
+        "_id": 172,
+        "word": "eo",
+        "translations": [{
+                "en": "him"
+            }
+        ]
+    }, {
+        "_id": 173,
+        "word": "duobus",
+        "translations": [{
+                "en": "two"
+            }
+        ]
+    }, {
+        "_id": 174,
+        "word": "habet",
+        "translations": [{
+                "en": "has"
+            }
+        ]
+    }, {
+        "_id": 175,
+        "word": "respice",
+        "translations": [{
+                "en": "look"
+            }
+        ]
+    }, {
+        "_id": 176,
+        "word": "more",
+        "translations": [{
+                "en": "more"
+            }
+        ]
+    }, {
+        "_id": 177,
+        "word": "die,",
+        "translations": [{
+                "en": "day"
+            }
+        ]
+    }, {
+        "_id": 178,
+        "word": "potuit",
+        "translations": [{
+                "en": "could"
+            }
+        ]
+    }, {
+        "_id": 179,
+        "word": "vade,",
+        "translations": [{
+                "en": "go"
+            }
+        ]
+    }, {
+        "_id": 180,
+        "word": "venit",
+        "translations": [{
+                "en": "come"
+            }
+        ]
+    }, {
+        "_id": 181,
+        "word": "Feceruntque",
+        "translations": [{
+                "en": "did"
+            }
+        ]
+    }, {
+        "_id": 182,
+        "word": "numerus",
+        "translations": [{
+                "en": "number"
+            }
+        ]
+    }, {
+        "_id": 183,
+        "word": "tuba canerent",
+        "translations": [{
+                "en": "sound"
+            }
+        ]
+    }, {
+        "_id": 184,
+        "word": "nulla",
+        "translations": [{
+                "en": "no"
+            }
+        ]
+    }, {
+        "_id": 185,
+        "word": "maxime",
+        "translations": [{
+                "en": "most"
+            }
+        ]
+    }, {
+        "_id": 186,
+        "word": "populus,",
+        "translations": [{
+                "en": "people"
+            }
+        ]
+    }, {
+        "_id": 187,
+        "word": "mea",
+        "translations": [{
+                "en": "my"
+            }
+        ]
+    }, {
+        "_id": 188,
+        "word": "supra",
+        "translations": [{
+                "en": "over"
+            }
+        ]
+    }, {
+        "_id": 189,
+        "word": "scitis",
+        "translations": [{
+                "en": "know"
+            }
+        ]
+    }, {
+        "_id": 190,
+        "word": "aquam",
+        "translations": [{
+                "en": "water"
+            }
+        ]
+    }, {
+        "_id": 191,
+        "word": "quam",
+        "translations": [{
+                "en": "than"
+            }
+        ]
+    }, {
+        "_id": 192,
+        "word": "call",
+        "translations": [{
+                "en": "call"
+            }
+        ]
+    }, {
+        "_id": 193,
+        "word": "prima",
+        "translations": [{
+                "en": "first"
+            }
+        ]
+    }, {
+        "_id": 194,
+        "word": "qui,",
+        "translations": [{
+                "en": "who"
+            }
+        ]
+    }, {
+        "_id": 195,
+        "word": "ut",
+        "translations": [{
+                "en": "may"
+            }
+        ]
+    }, {
+        "_id": 196,
+        "word": "descendit",
+        "translations": [{
+                "en": "down"
+            }
+        ]
+    }, {
+        "_id": 197,
+        "word": "latere",
+        "translations": [{
+                "en": "side"
+            }
+        ]
+    }, {
+        "_id": 198,
+        "word": "fuit",
+        "translations": [{
+                "en": "been"
+            }
+        ]
+    }, {
+        "_id": 199,
+        "word": "nunc",
+        "translations": [{
+                "en": "now"
+            }
+        ]
+    }, {
+        "_id": 200,
+        "word": "invenies",
+        "translations": [{
+                "en": "find"
+            }
+        ]
+    }, {
+        "_id": 201,
+        "word": "caput,",
+        "translations": [{
+                "en": "head"
+            }
+        ]
+    }, {
+        "_id": 202,
+        "word": "stant",
+        "translations": [{
+                "en": "stand"
+            }
+        ]
+    }, {
+        "_id": 203,
+        "word": "ipse",
+        "translations": [{
+                "en": "own"
+            }
+        ]
+    }, {
+        "_id": 204,
+        "word": "page",
+        "translations": [{
+                "en": "page"
+            }
+        ]
+    }, {
+        "_id": 205,
+        "word": "ut",
+        "translations": [{
+                "en": "should"
+            }
+        ]
+    }, {
+        "_id": 206,
+        "word": "patriae",
+        "translations": [{
+                "en": "country"
+            }
+        ]
+    }, {
+        "_id": 207,
+        "word": "invenit",
+        "translations": [{
+                "en": "found"
+            }
+        ]
+    }, {
+        "_id": 208,
+        "word": "dicendum,",
+        "translations": [{
+                "en": "answer"
+            }
+        ]
+    }, {
+        "_id": 209,
+        "word": "scholae",
+        "translations": [{
+                "en": "school"
+            }
+        ]
+    }, {
+        "_id": 210,
+        "word": "crescat",
+        "translations": [{
+                "en": "grow"
+            }
+        ]
+    }, {
+        "_id": 211,
+        "word": "studiorum",
+        "translations": [{
+                "en": "study"
+            }
+        ]
+    }, {
+        "_id": 212,
+        "word": "etiam",
+        "translations": [{
+                "en": "still"
+            }
+        ]
+    }, {
+        "_id": 213,
+        "word": "discant",
+        "translations": [{
+                "en": "learn"
+            }
+        ]
+    }, {
+        "_id": 214,
+        "word": "herba",
+        "translations": [{
+                "en": "plant"
+            }
+        ]
+    }, {
+        "_id": 215,
+        "word": "Cover",
+        "translations": [{
+                "en": "cover"
+            }
+        ]
+    }, {
+        "_id": 216,
+        "word": "cibum",
+        "translations": [{
+                "en": "food"
+            }
+        ]
+    }, {
+        "_id": 217,
+        "word": "solis",
+        "translations": [{
+                "en": "sun"
+            }
+        ]
+    }, {
+        "_id": 218,
+        "word": "quatuor,",
+        "translations": [{
+                "en": "four"
+            }
+        ]
+    }, {
+        "_id": 219,
+        "word": "inter",
+        "translations": [{
+                "en": "between"
+            }
+        ]
+    }, {
+        "_id": 220,
+        "word": "status",
+        "translations": [{
+                "en": "state"
+            }
+        ]
+    }, {
+        "_id": 221,
+        "word": "custodi",
+        "translations": [{
+                "en": "keep"
+            }
+        ]
+    }, {
+        "_id": 222,
+        "word": "oculus",
+        "translations": [{
+                "en": "eye"
+            }
+        ]
+    }, {
+        "_id": 223,
+        "word": "numquam",
+        "translations": [{
+                "en": "never"
+            }
+        ]
+    }, {
+        "_id": 224,
+        "word": "novissime",
+        "translations": [{
+                "en": "last"
+            }
+        ]
+    }, {
+        "_id": 225,
+        "word": "dimitte",
+        "translations": [{
+                "en": "let"
+            }
+        ]
+    }, {
+        "_id": 226,
+        "word": "cogitavit",
+        "translations": [{
+                "en": "thought"
+            }
+        ]
+    }, {
+        "_id": 227,
+        "word": "urbem",
+        "translations": [{
+                "en": "city"
+            }
+        ]
+    }, {
+        "_id": 228,
+        "word": "lignum",
+        "translations": [{
+                "en": "tree"
+            }
+        ]
+    }, {
+        "_id": 229,
+        "word": "transire",
+        "translations": [{
+                "en": "cross"
+            }
+        ]
+    }, {
+        "_id": 230,
+        "word": "fundum",
+        "translations": [{
+                "en": "farm"
+            }
+        ]
+    }, {
+        "_id": 231,
+        "word": "difficile",
+        "translations": [{
+                "en": "hard"
+            }
+        ]
+    }, {
+        "_id": 232,
+        "word": "initium",
+        "translations": [{
+                "en": "start"
+            }
+        ]
+    }, {
+        "_id": 233,
+        "word": "ut",
+        "translations": [{
+                "en": "might"
+            }
+        ]
+    }, {
+        "_id": 234,
+        "word": "fabula",
+        "translations": [{
+                "en": "story"
+            }
+        ]
+    }, {
+        "_id": 235,
+        "word": "Viderunt omnes",
+        "translations": [{
+                "en": "saw"
+            }
+        ]
+    }, {
+        "_id": 236,
+        "word": "tantum",
+        "translations": [{
+                "en": "far"
+            }
+        ]
+    }, {
+        "_id": 237,
+        "word": "mare,",
+        "translations": [{
+                "en": "sea"
+            }
+        ]
+    }, {
+        "_id": 238,
+        "word": "hauriret",
+        "translations": [{
+                "en": "draw"
+            }
+        ]
+    }, {
+        "_id": 239,
+        "word": "reliquit",
+        "translations": [{
+                "en": "left"
+            }
+        ]
+    }, {
+        "_id": 240,
+        "word": "quondam",
+        "translations": [{
+                "en": "late"
+            }
+        ]
+    }, {
+        "_id": 241,
+        "word": "currunt",
+        "translations": [{
+                "en": "run"
+            }
+        ]
+    }, {
+        "_id": 242,
+        "word": "non",
+        "translations": [{
+                "en": "don’t"
+            }
+        ]
+    }, {
+        "_id": 243,
+        "word": "cum",
+        "translations": [{
+                "en": "while"
+            }
+        ]
+    }, {
+        "_id": 244,
+        "word": "turba",
+        "translations": [{
+                "en": "press"
+            }
+        ]
+    }, {
+        "_id": 245,
+        "word": "proxime",
+        "translations": [{
+                "en": "close"
+            }
+        ]
+    }, {
+        "_id": 246,
+        "word": "noctis",
+        "translations": [{
+                "en": "night"
+            }
+        ]
+    }, {
+        "_id": 247,
+        "word": "ipsum",
+        "translations": [{
+                "en": "real"
+            }
+        ]
+    }, {
+        "_id": 248,
+        "word": "vita,",
+        "translations": [{
+                "en": "life"
+            }
+        ]
+    }, {
+        "_id": 249,
+        "word": "pauci",
+        "translations": [{
+                "en": "few"
+            }
+        ]
+    }, {
+        "_id": 250,
+        "word": "aquilonem",
+        "translations": [{
+                "en": "north"
+            }
+        ]
+    }, {
+        "_id": 251,
+        "word": "liber",
+        "translations": [{
+                "en": "book"
+            }
+        ]
+    }, {
+        "_id": 252,
+        "word": "ferte",
+        "translations": [{
+                "en": "carry"
+            }
+        ]
+    }, {
+        "_id": 253,
+        "word": "tulit",
+        "translations": [{
+                "en": "took"
+            }
+        ]
+    }, {
+        "_id": 254,
+        "word": "scientia,",
+        "translations": [{
+                "en": "science"
+            }
+        ]
+    }, {
+        "_id": 255,
+        "word": "manducare",
+        "translations": [{
+                "en": "eat"
+            }
+        ]
+    }, {
+        "_id": 256,
+        "word": "locus",
+        "translations": [{
+                "en": "room"
+            }
+        ]
+    }, {
+        "_id": 257,
+        "word": "amicitia",
+        "translations": [{
+                "en": "friend"
+            }
+        ]
+    }, {
+        "_id": 258,
+        "word": "coeperunt",
+        "translations": [{
+                "en": "began"
+            }
+        ]
+    }, {
+        "_id": 259,
+        "word": "idea",
+        "translations": [{
+                "en": "idea"
+            }
+        ]
+    }, {
+        "_id": 260,
+        "word": "pisces,",
+        "translations": [{
+                "en": "fish"
+            }
+        ]
+    }, {
+        "_id": 261,
+        "word": "montem",
+        "translations": [{
+                "en": "mountain"
+            }
+        ]
+    }, {
+        "_id": 262,
+        "word": "subsisto",
+        "translations": [{
+                "en": "stop"
+            }
+        ]
+    }, {
+        "_id": 263,
+        "word": "quondam",
+        "translations": [{
+                "en": "once"
+            }
+        ]
+    }, {
+        "_id": 264,
+        "word": "basi",
+        "translations": [{
+                "en": "base"
+            }
+        ]
+    }, {
+        "_id": 265,
+        "word": "audite",
+        "translations": [{
+                "en": "hear"
+            }
+        ]
+    }, {
+        "_id": 266,
+        "word": "equo",
+        "translations": [{
+                "en": "horse"
+            }
+        ]
+    }, {
+        "_id": 267,
+        "word": "sectis",
+        "translations": [{
+                "en": "cut"
+            }
+        ]
+    }, {
+        "_id": 268,
+        "word": "certus",
+        "translations": [{
+                "en": "sure"
+            }
+        ]
+    }, {
+        "_id": 269,
+        "word": "vigilate",
+        "translations": [{
+                "en": "watch"
+            }
+        ]
+    }, {
+        "_id": 270,
+        "word": "colorem",
+        "translations": [{
+                "en": "color"
+            }
+        ]
+    }, {
+        "_id": 271,
+        "word": "faciem",
+        "translations": [{
+                "en": "face"
+            }
+        ]
+    }, {
+        "_id": 272,
+        "word": "lignum",
+        "translations": [{
+                "en": "wood"
+            }
+        ]
+    }, {
+        "_id": 273,
+        "word": "main",
+        "translations": [{
+                "en": "main"
+            }
+        ]
+    }, {
+        "_id": 274,
+        "word": "aperi",
+        "translations": [{
+                "en": "open"
+            }
+        ]
+    }, {
+        "_id": 275,
+        "word": "videtur",
+        "translations": [{
+                "en": "seem"
+            }
+        ]
+    }, {
+        "_id": 276,
+        "word": "simul",
+        "translations": [{
+                "en": "together"
+            }
+        ]
+    }, {
+        "_id": 277,
+        "word": "postero",
+        "translations": [{
+                "en": "next"
+            }
+        ]
+    }, {
+        "_id": 278,
+        "word": "album",
+        "translations": [{
+                "en": "white"
+            }
+        ]
+    }, {
+        "_id": 279,
+        "word": "filii",
+        "translations": [{
+                "en": "children"
+            }
+        ]
+    }, {
+        "_id": 280,
+        "word": "incipe",
+        "translations": [{
+                "en": "begin"
+            }
+        ]
+    }, {
+        "_id": 281,
+        "word": "obtinuit",
+        "translations": [{
+                "en": "got"
+            }
+        ]
+    }, {
+        "_id": 282,
+        "word": "ambulate",
+        "translations": [{
+                "en": "walk"
+            }
+        ]
+    }, {
+        "_id": 283,
+        "word": "exemplum",
+        "translations": [{
+                "en": "example"
+            }
+        ]
+    }, {
+        "_id": 284,
+        "word": "relevare",
+        "translations": [{
+                "en": "ease"
+            }
+        ]
+    }, {
+        "_id": 285,
+        "word": "cartam",
+        "translations": [{
+                "en": "paper"
+            }
+        ]
+    }, {
+        "_id": 286,
+        "word": "group",
+        "translations": [{
+                "en": "group"
+            }
+        ]
+    }, {
+        "_id": 287,
+        "word": "semper",
+        "translations": [{
+                "en": "always"
+            }
+        ]
+    }, {
+        "_id": 288,
+        "word": "musica",
+        "translations": [{
+                "en": "music"
+            }
+        ]
+    }, {
+        "_id": 289,
+        "word": "eorum",
+        "translations": [{
+                "en": "those"
+            }
+        ]
+    }, {
+        "_id": 290,
+        "word": "et",
+        "translations": [{
+                "en": "both"
+            }
+        ]
+    }, {
+        "_id": 291,
+        "word": "caracterem",
+        "translations": [{
+                "en": "mark"
+            }
+        ]
+    }, {
+        "_id": 292,
+        "word": "saepe",
+        "translations": [{
+                "en": "often"
+            }
+        ]
+    }, {
+        "_id": 293,
+        "word": "litteris",
+        "translations": [{
+                "en": "letter"
+            }
+        ]
+    }, {
+        "_id": 294,
+        "word": "usque",
+        "translations": [{
+                "en": "until"
+            }
+        ]
+    }, {
+        "_id": 295,
+        "word": "mille passuum",
+        "translations": [{
+                "en": "mile"
+            }
+        ]
+    }, {
+        "_id": 296,
+        "word": "fluvio",
+        "translations": [{
+                "en": "river"
+            }
+        ]
+    }, {
+        "_id": 297,
+        "word": "car",
+        "translations": [{
+                "en": "car"
+            }
+        ]
+    }, {
+        "_id": 298,
+        "word": "pedes,",
+        "translations": [{
+                "en": "feet"
+            }
+        ]
+    }, {
+        "_id": 299,
+        "word": "cura,",
+        "translations": [{
+                "en": "care"
+            }
+        ]
+    }, {
+        "_id": 300,
+        "word": "secundo",
+        "translations": [{
+                "en": "second"
+            }
+        ]
+    }, {
+        "_id": 301,
+        "word": "sufficit",
+        "translations": [{
+                "en": "enough"
+            }
+        ]
+    }, {
+        "_id": 302,
+        "word": "patet,",
+        "translations": [{
+                "en": "plain"
+            }
+        ]
+    }, {
+        "_id": 303,
+        "word": "puella",
+        "translations": [{
+                "en": "girl"
+            }
+        ]
+    }, {
+        "_id": 304,
+        "word": "more",
+        "translations": [{
+                "en": "usual"
+            }
+        ]
+    }, {
+        "_id": 305,
+        "word": "adulescens",
+        "translations": [{
+                "en": "young"
+            }
+        ]
+    }, {
+        "_id": 306,
+        "word": "parata",
+        "translations": [{
+                "en": "ready"
+            }
+        ]
+    }, {
+        "_id": 307,
+        "word": "supra",
+        "translations": [{
+                "en": "above"
+            }
+        ]
+    }, {
+        "_id": 308,
+        "word": "in perpetuum",
+        "translations": [{
+                "en": "ever"
+            }
+        ]
+    }, {
+        "_id": 309,
+        "word": "red",
+        "translations": [{
+                "en": "red"
+            }
+        ]
+    }, {
+        "_id": 310,
+        "word": "album",
+        "translations": [{
+                "en": "list"
+            }
+        ]
+    }, {
+        "_id": 311,
+        "word": "tametsi",
+        "translations": [{
+                "en": "though"
+            }
+        ]
+    }, {
+        "_id": 312,
+        "word": "sentio",
+        "translations": [{
+                "en": "feel"
+            }
+        ]
+    }, {
+        "_id": 313,
+        "word": "Disputatio",
+        "translations": [{
+                "en": "talk"
+            }
+        ]
+    }, {
+        "_id": 314,
+        "word": "avem",
+        "translations": [{
+                "en": "bird"
+            }
+        ]
+    }, {
+        "_id": 315,
+        "word": "mox",
+        "translations": [{
+                "en": "soon"
+            }
+        ]
+    }, {
+        "_id": 316,
+        "word": "corpus,",
+        "translations": [{
+                "en": "body"
+            }
+        ]
+    }, {
+        "_id": 317,
+        "word": "canem",
+        "translations": [{
+                "en": "dog"
+            }
+        ]
+    }, {
+        "_id": 318,
+        "word": "familia",
+        "translations": [{
+                "en": "family"
+            }
+        ]
+    }, {
+        "_id": 319,
+        "word": "dirige",
+        "translations": [{
+                "en": "direct"
+            }
+        ]
+    }, {
+        "_id": 320,
+        "word": "aut statum,",
+        "translations": [{
+                "en": "pose"
+            }
+        ]
+    }, {
+        "_id": 321,
+        "word": "relinquo",
+        "translations": [{
+                "en": "leave"
+            }
+        ]
+    }, {
+        "_id": 322,
+        "word": "canticum",
+        "translations": [{
+                "en": "song"
+            }
+        ]
+    }, {
+        "_id": 323,
+        "word": "metiretur",
+        "translations": [{
+                "en": "measure"
+            }
+        ]
+    }, {
+        "_id": 324,
+        "word": "ostium",
+        "translations": [{
+                "en": "door"
+            }
+        ]
+    }, {
+        "_id": 325,
+        "word": "Vestibulum",
+        "translations": [{
+                "en": "product"
+            }
+        ]
+    }, {
+        "_id": 326,
+        "word": "nigrum",
+        "translations": [{
+                "en": "black"
+            }
+        ]
+    }, {
+        "_id": 327,
+        "word": "breves",
+        "translations": [{
+                "en": "short"
+            }
+        ]
+    }, {
+        "_id": 328,
+        "word": "numerales",
+        "translations": [{
+                "en": "numeral"
+            }
+        ]
+    }, {
+        "_id": 329,
+        "word": "class",
+        "translations": [{
+                "en": "class"
+            }
+        ]
+    }, {
+        "_id": 330,
+        "word": "spiritus",
+        "translations": [{
+                "en": "wind"
+            }
+        ]
+    }, {
+        "_id": 331,
+        "word": "quaestio",
+        "translations": [{
+                "en": "question"
+            }
+        ]
+    }, {
+        "_id": 332,
+        "word": "fieri",
+        "translations": [{
+                "en": "happen"
+            }
+        ]
+    }, {
+        "_id": 333,
+        "word": "completum",
+        "translations": [{
+                "en": "complete"
+            }
+        ]
+    }, {
+        "_id": 334,
+        "word": "navem",
+        "translations": [{
+                "en": "ship"
+            }
+        ]
+    }, {
+        "_id": 335,
+        "word": "area",
+        "translations": [{
+                "en": "area"
+            }
+        ]
+    }, {
+        "_id": 336,
+        "word": "dimidiam",
+        "translations": [{
+                "en": "half"
+            }
+        ]
+    }, {
+        "_id": 337,
+        "word": "petræ",
+        "translations": [{
+                "en": "rock"
+            }
+        ]
+    }, {
+        "_id": 338,
+        "word": "ut",
+        "translations": [{
+                "en": "order"
+            }
+        ]
+    }, {
+        "_id": 339,
+        "word": "ignis,",
+        "translations": [{
+                "en": "fire"
+            }
+        ]
+    }, {
+        "_id": 340,
+        "word": "austri",
+        "translations": [{
+                "en": "south"
+            }
+        ]
+    }, {
+        "_id": 341,
+        "word": "forsit",
+        "translations": [{
+                "en": "problem"
+            }
+        ]
+    }, {
+        "_id": 342,
+        "word": "frustrum",
+        "translations": [{
+                "en": "piece"
+            }
+        ]
+    }, {
+        "_id": 343,
+        "word": "nuntiavit",
+        "translations": [{
+                "en": "told"
+            }
+        ]
+    }, {
+        "_id": 344,
+        "word": "cognovit",
+        "translations": [{
+                "en": "knew"
+            }
+        ]
+    }, {
+        "_id": 345,
+        "word": "factum",
+        "translations": [{
+                "en": "pass"
+            }
+        ]
+    }, {
+        "_id": 346,
+        "word": "cum",
+        "translations": [{
+                "en": "since"
+            }
+        ]
+    }, {
+        "_id": 347,
+        "word": "top",
+        "translations": [{
+                "en": "top"
+            }
+        ]
+    }, {
+        "_id": 348,
+        "word": "omnis",
+        "translations": [{
+                "en": "whole"
+            }
+        ]
+    }, {
+        "_id": 349,
+        "word": "rex,",
+        "translations": [{
+                "en": "king"
+            }
+        ]
+    }, {
+        "_id": 350,
+        "word": "platea",
+        "translations": [{
+                "en": "street"
+            }
+        ]
+    }, {
+        "_id": 351,
+        "word": "inch",
+        "translations": [{
+                "en": "inch"
+            }
+        ]
+    }, {
+        "_id": 352,
+        "word": "multiplicabo",
+        "translations": [{
+                "en": "multiply"
+            }
+        ]
+    }, {
+        "_id": 353,
+        "word": "aliquid",
+        "translations": [{
+                "en": "nothing"
+            }
+        ]
+    }, {
+        "_id": 354,
+        "word": "scilicet",
+        "translations": [{
+                "en": "course"
+            }
+        ]
+    }, {
+        "_id": 355,
+        "word": "manete",
+        "translations": [{
+                "en": "stay"
+            }
+        ]
+    }, {
+        "_id": 356,
+        "word": "rotam",
+        "translations": [{
+                "en": "wheel"
+            }
+        ]
+    }, {
+        "_id": 357,
+        "word": "pleni",
+        "translations": [{
+                "en": "full"
+            }
+        ]
+    }, {
+        "_id": 358,
+        "word": "vi",
+        "translations": [{
+                "en": "force"
+            }
+        ]
+    }, {
+        "_id": 359,
+        "word": "hyacintho",
+        "translations": [{
+                "en": "blue"
+            }
+        ]
+    }, {
+        "_id": 360,
+        "word": "obiectum",
+        "translations": [{
+                "en": "object"
+            }
+        ]
+    }, {
+        "_id": 361,
+        "word": "decernere",
+        "translations": [{
+                "en": "decide"
+            }
+        ]
+    }, {
+        "_id": 362,
+        "word": "superficies",
+        "translations": [{
+                "en": "surface"
+            }
+        ]
+    }, {
+        "_id": 363,
+        "word": "abyssus",
+        "translations": [{
+                "en": "deep"
+            }
+        ]
+    }, {
+        "_id": 364,
+        "word": "lunam",
+        "translations": [{
+                "en": "moon"
+            }
+        ]
+    }, {
+        "_id": 365,
+        "word": "insulam,",
+        "translations": [{
+                "en": "island"
+            }
+        ]
+    }, {
+        "_id": 366,
+        "word": "pede",
+        "translations": [{
+                "en": "foot"
+            }
+        ]
+    }, {
+        "_id": 367,
+        "word": "ratio",
+        "translations": [{
+                "en": "system"
+            }
+        ]
+    }, {
+        "_id": 368,
+        "word": "occupatus",
+        "translations": [{
+                "en": "busy"
+            }
+        ]
+    }, {
+        "_id": 369,
+        "word": "aliquam",
+        "translations": [{
+                "en": "test"
+            }
+        ]
+    }, {
+        "_id": 370,
+        "word": "testimonium",
+        "translations": [{
+                "en": "record"
+            }
+        ]
+    }, {
+        "_id": 371,
+        "word": "navicula",
+        "translations": [{
+                "en": "boat"
+            }
+        ]
+    }, {
+        "_id": 372,
+        "word": "commune",
+        "translations": [{
+                "en": "common"
+            }
+        ]
+    }, {
+        "_id": 373,
+        "word": "aurum,",
+        "translations": [{
+                "en": "gold"
+            }
+        ]
+    }, {
+        "_id": 374,
+        "word": "potest",
+        "translations": [{
+                "en": "possible"
+            }
+        ]
+    }, {
+        "_id": 375,
+        "word": "planum",
+        "translations": [{
+                "en": "plane"
+            }
+        ]
+    }, {
+        "_id": 376,
+        "word": "pro eo",
+        "translations": [{
+                "en": "stead"
+            }
+        ]
+    }, {
+        "_id": 377,
+        "word": "siccum",
+        "translations": [{
+                "en": "dry"
+            }
+        ]
+    }, {
+        "_id": 378,
+        "word": "admiramini,",
+        "translations": [{
+                "en": "wonder"
+            }
+        ]
+    }, {
+        "_id": 379,
+        "word": "rideat",
+        "translations": [{
+                "en": "laugh"
+            }
+        ]
+    }, {
+        "_id": 380,
+        "word": "milia",
+        "translations": [{
+                "en": "thousand"
+            }
+        ]
+    }, {
+        "_id": 381,
+        "word": "ago",
+        "translations": [{
+                "en": "ago"
+            }
+        ]
+    }, {
+        "_id": 382,
+        "word": "cucurrit,",
+        "translations": [{
+                "en": "ran"
+            }
+        ]
+    }, {
+        "_id": 383,
+        "word": "reprehendo",
+        "translations": [{
+                "en": "check"
+            }
+        ]
+    }, {
+        "_id": 384,
+        "word": "ludum",
+        "translations": [{
+                "en": "game"
+            }
+        ]
+    }, {
+        "_id": 385,
+        "word": "figura",
+        "translations": [{
+                "en": "shape"
+            }
+        ]
+    }, {
+        "_id": 386,
+        "word": "aequat",
+        "translations": [{
+                "en": "equate"
+            }
+        ]
+    }, {
+        "_id": 387,
+        "word": "calidum",
+        "translations": [{
+                "en": "hot"
+            }
+        ]
+    }, {
+        "_id": 388,
+        "word": "requisierit",
+        "translations": [{
+                "en": "miss"
+            }
+        ]
+    }, {
+        "_id": 389,
+        "word": "adduxerunt",
+        "translations": [{
+                "en": "brought"
+            }
+        ]
+    }, {
+        "_id": 390,
+        "word": "calor",
+        "translations": [{
+                "en": "heat"
+            }
+        ]
+    }, {
+        "_id": 391,
+        "word": "nix,",
+        "translations": [{
+                "en": "snow"
+            }
+        ]
+    }, {
+        "_id": 392,
+        "word": "piget",
+        "translations": [{
+                "en": "tire"
+            }
+        ]
+    }, {
+        "_id": 393,
+        "word": "adducet",
+        "translations": [{
+                "en": "bring"
+            }
+        ]
+    }, {
+        "_id": 394,
+        "word": "etiam",
+        "translations": [{
+                "en": "yes"
+            }
+        ]
+    }, {
+        "_id": 395,
+        "word": "distant",
+        "translations": [{
+                "en": "distant"
+            }
+        ]
+    }, {
+        "_id": 396,
+        "word": "imple",
+        "translations": [{
+                "en": "fill"
+            }
+        ]
+    }, {
+        "_id": 397,
+        "word": "orientem",
+        "translations": [{
+                "en": "east"
+            }
+        ]
+    }, {
+        "_id": 398,
+        "word": "pingere,",
+        "translations": [{
+                "en": "paint"
+            }
+        ]
+    }, {
+        "_id": 399,
+        "word": "lingua",
+        "translations": [{
+                "en": "language"
+            }
+        ]
+    }, {
+        "_id": 400,
+        "word": "in",
+        "translations": [{
+                "en": "among"
+            }
+        ]
+    }, {
+        "_id": 401,
+        "word": "unitas",
+        "translations": [{
+                "en": "unit"
+            }
+        ]
+    }, {
+        "_id": 402,
+        "word": "potestatem",
+        "translations": [{
+                "en": "power"
+            }
+        ]
+    }, {
+        "_id": 403,
+        "word": "urbem",
+        "translations": [{
+                "en": "town"
+            }
+        ]
+    }, {
+        "_id": 404,
+        "word": "Postremo",
+        "translations": [{
+                "en": "fine"
+            }
+        ]
+    }, {
+        "_id": 405,
+        "word": "quaedam",
+        "translations": [{
+                "en": "certain"
+            }
+        ]
+    }, {
+        "_id": 406,
+        "word": "fuge",
+        "translations": [{
+                "en": "fly"
+            }
+        ]
+    }, {
+        "_id": 407,
+        "word": "ceciderit",
+        "translations": [{
+                "en": "fall"
+            }
+        ]
+    }, {
+        "_id": 408,
+        "word": "ducit",
+        "translations": [{
+                "en": "lead"
+            }
+        ]
+    }, {
+        "_id": 409,
+        "word": "clamor",
+        "translations": [{
+                "en": "cry"
+            }
+        ]
+    }, {
+        "_id": 410,
+        "word": "obscuro",
+        "translations": [{
+                "en": "dark"
+            }
+        ]
+    }, {
+        "_id": 411,
+        "word": "apparatus",
+        "translations": [{
+                "en": "machine"
+            }
+        ]
+    }, {
+        "_id": 412,
+        "word": "note",
+        "translations": [{
+                "en": "note"
+            }
+        ]
+    }, {
+        "_id": 413,
+        "word": "exspecta",
+        "translations": [{
+                "en": "wait"
+            }
+        ]
+    }, {
+        "_id": 414,
+        "word": "consilium",
+        "translations": [{
+                "en": "plan"
+            }
+        ]
+    }, {
+        "_id": 415,
+        "word": "figura,",
+        "translations": [{
+                "en": "figure"
+            }
+        ]
+    }, {
+        "_id": 416,
+        "word": "stella,",
+        "translations": [{
+                "en": "star"
+            }
+        ]
+    }, {
+        "_id": 417,
+        "word": "box",
+        "translations": [{
+                "en": "box"
+            }
+        ]
+    }, {
+        "_id": 418,
+        "word": "noun",
+        "translations": [{
+                "en": "noun"
+            }
+        ]
+    }, {
+        "_id": 419,
+        "word": "agro,",
+        "translations": [{
+                "en": "field"
+            }
+        ]
+    }, {
+        "_id": 420,
+        "word": "Reliqua",
+        "translations": [{
+                "en": "rest"
+            }
+        ]
+    }, {
+        "_id": 421,
+        "word": "recte",
+        "translations": [{
+                "en": "correct"
+            }
+        ]
+    }, {
+        "_id": 422,
+        "word": "potest",
+        "translations": [{
+                "en": "able"
+            }
+        ]
+    }, {
+        "_id": 423,
+        "word": "libra",
+        "translations": [{
+                "en": "pound"
+            }
+        ]
+    }, {
+        "_id": 424,
+        "word": "factum",
+        "translations": [{
+                "en": "done"
+            }
+        ]
+    }, {
+        "_id": 425,
+        "word": "pulchritudo",
+        "translations": [{
+                "en": "beauty"
+            }
+        ]
+    }, {
+        "_id": 426,
+        "word": "coegi",
+        "translations": [{
+                "en": "drive"
+            }
+        ]
+    }, {
+        "_id": 427,
+        "word": "stetit",
+        "translations": [{
+                "en": "stood"
+            }
+        ]
+    }, {
+        "_id": 428,
+        "word": "continent,",
+        "translations": [{
+                "en": "contain"
+            }
+        ]
+    }, {
+        "_id": 429,
+        "word": "ante",
+        "translations": [{
+                "en": "front"
+            }
+        ]
+    }, {
+        "_id": 430,
+        "word": "docebit",
+        "translations": [{
+                "en": "teach"
+            }
+        ]
+    }, {
+        "_id": 431,
+        "word": "week",
+        "translations": [{
+                "en": "week"
+            }
+        ]
+    }, {
+        "_id": 432,
+        "word": "ultima",
+        "translations": [{
+                "en": "final"
+            }
+        ]
+    }, {
+        "_id": 433,
+        "word": "deditque",
+        "translations": [{
+                "en": "gave"
+            }
+        ]
+    }, {
+        "_id": 434,
+        "word": "viridem",
+        "translations": [{
+                "en": "green"
+            }
+        ]
+    }, {
+        "_id": 435,
+        "word": "o",
+        "translations": [{
+                "en": "oh"
+            }
+        ]
+    }, {
+        "_id": 436,
+        "word": "acutus",
+        "translations": [{
+                "en": "quick"
+            }
+        ]
+    }, {
+        "_id": 437,
+        "word": "evolvere",
+        "translations": [{
+                "en": "develop"
+            }
+        ]
+    }, {
+        "_id": 438,
+        "word": "oceanus",
+        "translations": [{
+                "en": "ocean"
+            }
+        ]
+    }, {
+        "_id": 439,
+        "word": "calidum",
+        "translations": [{
+                "en": "warm"
+            }
+        ]
+    }, {
+        "_id": 440,
+        "word": "absque",
+        "translations": [{
+                "en": "free"
+            }
+        ]
+    }, {
+        "_id": 441,
+        "word": "minute",
+        "translations": [{
+                "en": "minute"
+            }
+        ]
+    }, {
+        "_id": 442,
+        "word": "confortare",
+        "translations": [{
+                "en": "strong"
+            }
+        ]
+    }, {
+        "_id": 443,
+        "word": "peculiarem",
+        "translations": [{
+                "en": "special"
+            }
+        ]
+    }, {
+        "_id": 444,
+        "word": "animus",
+        "translations": [{
+                "en": "mind"
+            }
+        ]
+    }, {
+        "_id": 445,
+        "word": "retro,",
+        "translations": [{
+                "en": "behind"
+            }
+        ]
+    }, {
+        "_id": 446,
+        "word": "patet,",
+        "translations": [{
+                "en": "clear"
+            }
+        ]
+    }, {
+        "_id": 447,
+        "word": "caudae",
+        "translations": [{
+                "en": "tail"
+            }
+        ]
+    }, {
+        "_id": 448,
+        "word": "producere",
+        "translations": [{
+                "en": "produce"
+            }
+        ]
+    }, {
+        "_id": 449,
+        "word": "eo",
+        "translations": [{
+                "en": "fact"
+            }
+        ]
+    }, {
+        "_id": 450,
+        "word": "locus",
+        "translations": [{
+                "en": "space"
+            }
+        ]
+    }, {
+        "_id": 451,
+        "word": "audivit",
+        "translations": [{
+                "en": "heard"
+            }
+        ]
+    }, {
+        "_id": 452,
+        "word": "optimum",
+        "translations": [{
+                "en": "best"
+            }
+        ]
+    }, {
+        "_id": 453,
+        "word": "hora,",
+        "translations": [{
+                "en": "hour"
+            }
+        ]
+    }, {
+        "_id": 454,
+        "word": "melius",
+        "translations": [{
+                "en": "better"
+            }
+        ]
+    }, {
+        "_id": 455,
+        "word": "verum",
+        "translations": [{
+                "en": "true"
+            }
+        ]
+    }, {
+        "_id": 456,
+        "word": "per",
+        "translations": [{
+                "en": "during"
+            }
+        ]
+    }, {
+        "_id": 457,
+        "word": "centum",
+        "translations": [{
+                "en": "hundred"
+            }
+        ]
+    }, {
+        "_id": 458,
+        "word": "quinque,",
+        "translations": [{
+                "en": "five"
+            }
+        ]
+    }, {
+        "_id": 459,
+        "word": "memores",
+        "translations": [{
+                "en": "remember"
+            }
+        ]
+    }, {
+        "_id": 460,
+        "word": "step",
+        "translations": [{
+                "en": "step"
+            }
+        ]
+    }, {
+        "_id": 461,
+        "word": "mane",
+        "translations": [{
+                "en": "early"
+            }
+        ]
+    }, {
+        "_id": 462,
+        "word": "tenent",
+        "translations": [{
+                "en": "hold"
+            }
+        ]
+    }, {
+        "_id": 463,
+        "word": "occasu",
+        "translations": [{
+                "en": "west"
+            }
+        ]
+    }, {
+        "_id": 464,
+        "word": "terra,",
+        "translations": [{
+                "en": "ground"
+            }
+        ]
+    }, {
+        "_id": 465,
+        "word": "interest",
+        "translations": [{
+                "en": "interest"
+            }
+        ]
+    }, {
+        "_id": 466,
+        "word": "attingere",
+        "translations": [{
+                "en": "reach"
+            }
+        ]
+    }, {
+        "_id": 467,
+        "word": "ieiunium,",
+        "translations": [{
+                "en": "fast"
+            }
+        ]
+    }, {
+        "_id": 468,
+        "word": "verbo,",
+        "translations": [{
+                "en": "verb"
+            }
+        ]
+    }, {
+        "_id": 469,
+        "word": "cantabo",
+        "translations": [{
+                "en": "sing"
+            }
+        ]
+    }, {
+        "_id": 470,
+        "word": "audite",
+        "translations": [{
+                "en": "listen"
+            }
+        ]
+    }, {
+        "_id": 471,
+        "word": "sex,",
+        "translations": [{
+                "en": "six"
+            }
+        ]
+    }, {
+        "_id": 472,
+        "word": "mensamque",
+        "translations": [{
+                "en": "table"
+            }
+        ]
+    }, {
+        "_id": 473,
+        "word": "peregrinationes",
+        "translations": [{
+                "en": "travel"
+            }
+        ]
+    }, {
+        "_id": 474,
+        "word": "minor",
+        "translations": [{
+                "en": "less"
+            }
+        ]
+    }, {
+        "_id": 475,
+        "word": "mane,",
+        "translations": [{
+                "en": "morning"
+            }
+        ]
+    }, {
+        "_id": 476,
+        "word": "decem",
+        "translations": [{
+                "en": "ten"
+            }
+        ]
+    }, {
+        "_id": 477,
+        "word": "simplex,",
+        "translations": [{
+                "en": "simple"
+            }
+        ]
+    }, {
+        "_id": 478,
+        "word": "plures",
+        "translations": [{
+                "en": "several"
+            }
+        ]
+    }, {
+        "_id": 479,
+        "word": "vocali,",
+        "translations": [{
+                "en": "vowel"
+            }
+        ]
+    }, {
+        "_id": 480,
+        "word": "in",
+        "translations": [{
+                "en": "toward"
+            }
+        ]
+    }, {
+        "_id": 481,
+        "word": "bellum,",
+        "translations": [{
+                "en": "war"
+            }
+        ]
+    }, {
+        "_id": 482,
+        "word": "dormivitque",
+        "translations": [{
+                "en": "lay"
+            }
+        ]
+    }, {
+        "_id": 483,
+        "word": "contra",
+        "translations": [{
+                "en": "against"
+            }
+        ]
+    }, {
+        "_id": 484,
+        "word": "exemplar,",
+        "translations": [{
+                "en": "pattern"
+            }
+        ]
+    }, {
+        "_id": 485,
+        "word": "tardus",
+        "translations": [{
+                "en": "slow"
+            }
+        ]
+    }, {
+        "_id": 486,
+        "word": "centrum",
+        "translations": [{
+                "en": "center"
+            }
+        ]
+    }, {
+        "_id": 487,
+        "word": "amant",
+        "translations": [{
+                "en": "love"
+            }
+        ]
+    }, {
+        "_id": 488,
+        "word": "aliquis",
+        "translations": [{
+                "en": "person"
+            }
+        ]
+    }, {
+        "_id": 489,
+        "word": "pecuniam,",
+        "translations": [{
+                "en": "money"
+            }
+        ]
+    }, {
+        "_id": 490,
+        "word": "serviant",
+        "translations": [{
+                "en": "serve"
+            }
+        ]
+    }, {
+        "_id": 491,
+        "word": "appareant",
+        "translations": [{
+                "en": "appear"
+            }
+        ]
+    }, {
+        "_id": 492,
+        "word": "via,",
+        "translations": [{
+                "en": "road"
+            }
+        ]
+    }, {
+        "_id": 493,
+        "word": "tabula",
+        "translations": [{
+                "en": "map"
+            }
+        ]
+    }, {
+        "_id": 494,
+        "word": "pluviae",
+        "translations": [{
+                "en": "rain"
+            }
+        ]
+    }, {
+        "_id": 495,
+        "word": "imperium",
+        "translations": [{
+                "en": "rule"
+            }
+        ]
+    }, {
+        "_id": 496,
+        "word": "regunt",
+        "translations": [{
+                "en": "govern"
+            }
+        ]
+    }, {
+        "_id": 497,
+        "word": "attrahendam",
+        "translations": [{
+                "en": "pull"
+            }
+        ]
+    }, {
+        "_id": 498,
+        "word": "frigus,",
+        "translations": [{
+                "en": "cold"
+            }
+        ]
+    }, {
+        "_id": 499,
+        "word": "Observate",
+        "translations": [{
+                "en": "notice"
+            }
+        ]
+    }, {
+        "_id": 500,
+        "word": "vox",
+        "translations": [{
+                "en": "voice"
+            }
+        ]
+    }, {
+        "_id": 501,
+        "word": "navitas",
+        "translations": [{
+                "en": "energy"
+            }
+        ]
+    }, {
+        "_id": 502,
+        "word": "hunt",
+        "translations": [{
+                "en": "hunt"
+            }
+        ]
+    }, {
+        "_id": 503,
+        "word": "probabile",
+        "translations": [{
+                "en": "probable"
+            }
+        ]
+    }, {
+        "_id": 504,
+        "word": "cubili",
+        "translations": [{
+                "en": "bed"
+            }
+        ]
+    }, {
+        "_id": 505,
+        "word": "frater,",
+        "translations": [{
+                "en": "brother"
+            }
+        ]
+    }, {
+        "_id": 506,
+        "word": "ovum",
+        "translations": [{
+                "en": "egg"
+            }
+        ]
+    }, {
+        "_id": 507,
+        "word": "ride",
+        "translations": [{
+                "en": "ride"
+            }
+        ]
+    }, {
+        "_id": 508,
+        "word": "cell",
+        "translations": [{
+                "en": "cell"
+            }
+        ]
+    }, {
+        "_id": 509,
+        "word": "Credere",
+        "translations": [{
+                "en": "believe"
+            }
+        ]
+    }, {
+        "_id": 510,
+        "word": "forsan",
+        "translations": [{
+                "en": "perhaps"
+            }
+        ]
+    }, {
+        "_id": 511,
+        "word": "colligunt",
+        "translations": [{
+                "en": "pick"
+            }
+        ]
+    }, {
+        "_id": 512,
+        "word": "repentino",
+        "translations": [{
+                "en": "sudden"
+            }
+        ]
+    }, {
+        "_id": 513,
+        "word": "Numerabitis",
+        "translations": [{
+                "en": "count"
+            }
+        ]
+    }, {
+        "_id": 514,
+        "word": "quadratum",
+        "translations": [{
+                "en": "square"
+            }
+        ]
+    }, {
+        "_id": 515,
+        "word": "ideo",
+        "translations": [{
+                "en": "reason"
+            }
+        ]
+    }, {
+        "_id": 516,
+        "word": "longitudinis",
+        "translations": [{
+                "en": "length"
+            }
+        ]
+    }, {
+        "_id": 517,
+        "word": "repraesentant,",
+        "translations": [{
+                "en": "represent"
+            }
+        ]
+    }, {
+        "_id": 518,
+        "word": "art",
+        "translations": [{
+                "en": "art"
+            }
+        ]
+    }, {
+        "_id": 519,
+        "word": "subiectum",
+        "translations": [{
+                "en": "subject"
+            }
+        ]
+    }, {
+        "_id": 520,
+        "word": "regionem",
+        "translations": [{
+                "en": "region"
+            }
+        ]
+    }, {
+        "_id": 521,
+        "word": "amplitudo",
+        "translations": [{
+                "en": "size"
+            }
+        ]
+    }, {
+        "_id": 522,
+        "word": "variant",
+        "translations": [{
+                "en": "vary"
+            }
+        ]
+    }, {
+        "_id": 523,
+        "word": "habita",
+        "translations": [{
+                "en": "settle"
+            }
+        ]
+    }, {
+        "_id": 524,
+        "word": "dicere",
+        "translations": [{
+                "en": "speak"
+            }
+        ]
+    }, {
+        "_id": 525,
+        "word": "pondus,",
+        "translations": [{
+                "en": "weight"
+            }
+        ]
+    }, {
+        "_id": 526,
+        "word": "generalis",
+        "translations": [{
+                "en": "general"
+            }
+        ]
+    }, {
+        "_id": 527,
+        "word": "glaciem,",
+        "translations": [{
+                "en": "ice"
+            }
+        ]
+    }, {
+        "_id": 528,
+        "word": "materia",
+        "translations": [{
+                "en": "matter"
+            }
+        ]
+    }, {
+        "_id": 529,
+        "word": "circulus",
+        "translations": [{
+                "en": "circle"
+            }
+        ]
+    }, {
+        "_id": 530,
+        "word": "par",
+        "translations": [{
+                "en": "pair"
+            }
+        ]
+    }, {
+        "_id": 531,
+        "word": "comprehendo",
+        "translations": [{
+                "en": "include"
+            }
+        ]
+    }, {
+        "_id": 532,
+        "word": "divide",
+        "translations": [{
+                "en": "divide"
+            }
+        ]
+    }, {
+        "_id": 533,
+        "word": "syllabae",
+        "translations": [{
+                "en": "syllable"
+            }
+        ]
+    }, {
+        "_id": 534,
+        "word": "sensi",
+        "translations": [{
+                "en": "felt"
+            }
+        ]
+    }, {
+        "_id": 535,
+        "word": "magnificum",
+        "translations": [{
+                "en": "grand"
+            }
+        ]
+    }, {
+        "_id": 536,
+        "word": "pila,",
+        "translations": [{
+                "en": "ball"
+            }
+        ]
+    }, {
+        "_id": 537,
+        "word": "sed",
+        "translations": [{
+                "en": "yet"
+            }
+        ]
+    }, {
+        "_id": 538,
+        "word": "unda,",
+        "translations": [{
+                "en": "wave"
+            }
+        ]
+    }, {
+        "_id": 539,
+        "word": "concrescunt",
+        "translations": [{
+                "en": "drop"
+            }
+        ]
+    }, {
+        "_id": 540,
+        "word": "cor",
+        "translations": [{
+                "en": "heart"
+            }
+        ]
+    }, {
+        "_id": 541,
+        "word": "sum",
+        "translations": [{
+                "en": "am"
+            }
+        ]
+    }, {
+        "_id": 542,
+        "word": "praesens",
+        "translations": [{
+                "en": "present"
+            }
+        ]
+    }, {
+        "_id": 543,
+        "word": "magna",
+        "translations": [{
+                "en": "heavy"
+            }
+        ]
+    }, {
+        "_id": 544,
+        "word": "chorea",
+        "translations": [{
+                "en": "dance"
+            }
+        ]
+    }, {
+        "_id": 545,
+        "word": "engine",
+        "translations": [{
+                "en": "engine"
+            }
+        ]
+    }, {
+        "_id": 546,
+        "word": "locus",
+        "translations": [{
+                "en": "position"
+            }
+        ]
+    }, {
+        "_id": 547,
+        "word": "brachium",
+        "translations": [{
+                "en": "arm"
+            }
+        ]
+    }, {
+        "_id": 548,
+        "word": "wide",
+        "translations": [{
+                "en": "wide"
+            }
+        ]
+    }, {
+        "_id": 549,
+        "word": "vela",
+        "translations": [{
+                "en": "sail"
+            }
+        ]
+    }, {
+        "_id": 550,
+        "word": "material",
+        "translations": [{
+                "en": "material"
+            }
+        ]
+    }, {
+        "_id": 551,
+        "word": "fractionem",
+        "translations": [{
+                "en": "fraction"
+            }
+        ]
+    }, {
+        "_id": 552,
+        "word": "saltus",
+        "translations": [{
+                "en": "forest"
+            }
+        ]
+    }, {
+        "_id": 553,
+        "word": "sedebitis",
+        "translations": [{
+                "en": "sit"
+            }
+        ]
+    }, {
+        "_id": 554,
+        "word": "generis",
+        "translations": [{
+                "en": "race"
+            }
+        ]
+    }, {
+        "_id": 555,
+        "word": "fenestram",
+        "translations": [{
+                "en": "window"
+            }
+        ]
+    }, {
+        "_id": 556,
+        "word": "store",
+        "translations": [{
+                "en": "store"
+            }
+        ]
+    }, {
+        "_id": 557,
+        "word": "aestas",
+        "translations": [{
+                "en": "summer"
+            }
+        ]
+    }, {
+        "_id": 558,
+        "word": "erant",
+        "translations": [{
+                "en": "train"
+            }
+        ]
+    }, {
+        "_id": 559,
+        "word": "somnum",
+        "translations": [{
+                "en": "sleep"
+            }
+        ]
+    }, {
+        "_id": 560,
+        "word": "probant",
+        "translations": [{
+                "en": "prove"
+            }
+        ]
+    }, {
+        "_id": 561,
+        "word": "agitur,",
+        "translations": [{
+                "en": "lone"
+            }
+        ]
+    }, {
+        "_id": 562,
+        "word": "leg",
+        "translations": [{
+                "en": "leg"
+            }
+        ]
+    }, {
+        "_id": 563,
+        "word": "exercitium",
+        "translations": [{
+                "en": "exercise"
+            }
+        ]
+    }, {
+        "_id": 564,
+        "word": "murum",
+        "translations": [{
+                "en": "wall"
+            }
+        ]
+    }, {
+        "_id": 565,
+        "word": "captiones",
+        "translations": [{
+                "en": "catch"
+            }
+        ]
+    }, {
+        "_id": 566,
+        "word": "montem",
+        "translations": [{
+                "en": "mount"
+            }
+        ]
+    }, {
+        "_id": 567,
+        "word": "volunt",
+        "translations": [{
+                "en": "wish"
+            }
+        ]
+    }, {
+        "_id": 568,
+        "word": "caelum",
+        "translations": [{
+                "en": "sky"
+            }
+        ]
+    }, {
+        "_id": 569,
+        "word": "tabulam",
+        "translations": [{
+                "en": "board"
+            }
+        ]
+    }, {
+        "_id": 570,
+        "word": "gaudium,",
+        "translations": [{
+                "en": "joy"
+            }
+        ]
+    }, {
+        "_id": 571,
+        "word": "winter",
+        "translations": [{
+                "en": "winter"
+            }
+        ]
+    }, {
+        "_id": 572,
+        "word": "sat",
+        "translations": [{
+                "en": "sat"
+            }
+        ]
+    }, {
+        "_id": 573,
+        "word": "scriptum",
+        "translations": [{
+                "en": "written"
+            }
+        ]
+    }, {
+        "_id": 574,
+        "word": "fera",
+        "translations": [{
+                "en": "wild"
+            }
+        ]
+    }, {
+        "_id": 575,
+        "word": "instrumentum,",
+        "translations": [{
+                "en": "instrument"
+            }
+        ]
+    }, {
+        "_id": 576,
+        "word": "custodivit",
+        "translations": [{
+                "en": "kept"
+            }
+        ]
+    }, {
+        "_id": 577,
+        "word": "vitro",
+        "translations": [{
+                "en": "glass"
+            }
+        ]
+    }, {
+        "_id": 578,
+        "word": "fœnum",
+        "translations": [{
+                "en": "grass"
+            }
+        ]
+    }, {
+        "_id": 579,
+        "word": "vitulus",
+        "translations": [{
+                "en": "cow"
+            }
+        ]
+    }, {
+        "_id": 580,
+        "word": "officium",
+        "translations": [{
+                "en": "job"
+            }
+        ]
+    }, {
+        "_id": 581,
+        "word": "ore",
+        "translations": [{
+                "en": "edge"
+            }
+        ]
+    }, {
+        "_id": 582,
+        "word": "signum",
+        "translations": [{
+                "en": "sign"
+            }
+        ]
+    }, {
+        "_id": 583,
+        "word": "visit",
+        "translations": [{
+                "en": "visit"
+            }
+        ]
+    }, {
+        "_id": 584,
+        "word": "past",
+        "translations": [{
+                "en": "past"
+            }
+        ]
+    }, {
+        "_id": 585,
+        "word": "molli",
+        "translations": [{
+                "en": "soft"
+            }
+        ]
+    }, {
+        "_id": 586,
+        "word": "fun",
+        "translations": [{
+                "en": "fun"
+            }
+        ]
+    }, {
+        "_id": 587,
+        "word": "splendidum",
+        "translations": [{
+                "en": "bright"
+            }
+        ]
+    }, {
+        "_id": 588,
+        "word": "Vestibulum",
+        "translations": [{
+                "en": "gas"
+            }
+        ]
+    }, {
+        "_id": 589,
+        "word": "tempestas",
+        "translations": [{
+                "en": "weather"
+            }
+        ]
+    }, {
+        "_id": 590,
+        "word": "mense",
+        "translations": [{
+                "en": "month"
+            }
+        ]
+    }, {
+        "_id": 591,
+        "word": "million",
+        "translations": [{
+                "en": "million"
+            }
+        ]
+    }, {
+        "_id": 592,
+        "word": "ferre",
+        "translations": [{
+                "en": "bear"
+            }
+        ]
+    }, {
+        "_id": 593,
+        "word": "peroratum",
+        "translations": [{
+                "en": "finish"
+            }
+        ]
+    }, {
+        "_id": 594,
+        "word": "beati",
+        "translations": [{
+                "en": "happy"
+            }
+        ]
+    }, {
+        "_id": 595,
+        "word": "spero",
+        "translations": [{
+                "en": "hope"
+            }
+        ]
+    }, {
+        "_id": 596,
+        "word": "flos",
+        "translations": [{
+                "en": "flower"
+            }
+        ]
+    }, {
+        "_id": 597,
+        "word": "induere",
+        "translations": [{
+                "en": "clothe"
+            }
+        ]
+    }, {
+        "_id": 598,
+        "word": "mirum",
+        "translations": [{
+                "en": "strange"
+            }
+        ]
+    }, {
+        "_id": 599,
+        "word": "abiit",
+        "translations": [{
+                "en": "gone"
+            }
+        ]
+    }, {
+        "_id": 600,
+        "word": "commercia",
+        "translations": [{
+                "en": "trade"
+            }
+        ]
+    }, {
+        "_id": 601,
+        "word": "melodiam",
+        "translations": [{
+                "en": "melody"
+            }
+        ]
+    }, {
+        "_id": 602,
+        "word": "trinus",
+        "translations": [{
+                "en": "trip"
+            }
+        ]
+    }, {
+        "_id": 603,
+        "word": "officium",
+        "translations": [{
+                "en": "office"
+            }
+        ]
+    }, {
+        "_id": 604,
+        "word": "accipiet",
+        "translations": [{
+                "en": "receive"
+            }
+        ]
+    }, {
+        "_id": 605,
+        "word": "row",
+        "translations": [{
+                "en": "row"
+            }
+        ]
+    }, {
+        "_id": 606,
+        "word": "os,",
+        "translations": [{
+                "en": "mouth"
+            }
+        ]
+    }, {
+        "_id": 607,
+        "word": "exactam",
+        "translations": [{
+                "en": "exact"
+            }
+        ]
+    }, {
+        "_id": 608,
+        "word": "signum",
+        "translations": [{
+                "en": "symbol"
+            }
+        ]
+    }, {
+        "_id": 609,
+        "word": "mortuus",
+        "translations": [{
+                "en": "die"
+            }
+        ]
+    }, {
+        "_id": 610,
+        "word": "minimus",
+        "translations": [{
+                "en": "least"
+            }
+        ]
+    }, {
+        "_id": 611,
+        "word": "angustia",
+        "translations": [{
+                "en": "trouble"
+            }
+        ]
+    }, {
+        "_id": 612,
+        "word": "jubila",
+        "translations": [{
+                "en": "shout"
+            }
+        ]
+    }, {
+        "_id": 613,
+        "word": "nisi",
+        "translations": [{
+                "en": "except"
+            }
+        ]
+    }, {
+        "_id": 614,
+        "word": "scripsit",
+        "translations": [{
+                "en": "wrote"
+            }
+        ]
+    }, {
+        "_id": 615,
+        "word": "semen,",
+        "translations": [{
+                "en": "seed"
+            }
+        ]
+    }, {
+        "_id": 616,
+        "word": "tone",
+        "translations": [{
+                "en": "tone"
+            }
+        ]
+    }, {
+        "_id": 617,
+        "word": "iungere",
+        "translations": [{
+                "en": "join"
+            }
+        ]
+    }, {
+        "_id": 618,
+        "word": "suadeant",
+        "translations": [{
+                "en": "suggest"
+            }
+        ]
+    }, {
+        "_id": 619,
+        "word": "mundi",
+        "translations": [{
+                "en": "clean"
+            }
+        ]
+    }, {
+        "_id": 620,
+        "word": "aspiret",
+        "translations": [{
+                "en": "break"
+            }
+        ]
+    }, {
+        "_id": 621,
+        "word": "dominae",
+        "translations": [{
+                "en": "lady"
+            }
+        ]
+    }, {
+        "_id": 622,
+        "word": "navale",
+        "translations": [{
+                "en": "yard"
+            }
+        ]
+    }, {
+        "_id": 623,
+        "word": "surgere",
+        "translations": [{
+                "en": "rise"
+            }
+        ]
+    }, {
+        "_id": 624,
+        "word": "malum",
+        "translations": [{
+                "en": "bad"
+            }
+        ]
+    }, {
+        "_id": 625,
+        "word": "ictus",
+        "translations": [{
+                "en": "blow"
+            }
+        ]
+    }, {
+        "_id": 626,
+        "word": "olei",
+        "translations": [{
+                "en": "oil"
+            }
+        ]
+    }, {
+        "_id": 627,
+        "word": "sanguis,",
+        "translations": [{
+                "en": "blood"
+            }
+        ]
+    }, {
+        "_id": 628,
+        "word": "tangerent",
+        "translations": [{
+                "en": "touch"
+            }
+        ]
+    }, {
+        "_id": 629,
+        "word": "crevit",
+        "translations": [{
+                "en": "grew"
+            }
+        ]
+    }, {
+        "_id": 630,
+        "word": "cent",
+        "translations": [{
+                "en": "cent"
+            }
+        ]
+    }, {
+        "_id": 631,
+        "word": "miscere,",
+        "translations": [{
+                "en": "mix"
+            }
+        ]
+    }, {
+        "_id": 632,
+        "word": "bigas",
+        "translations": [{
+                "en": "team"
+            }
+        ]
+    }, {
+        "_id": 633,
+        "word": "wire",
+        "translations": [{
+                "en": "wire"
+            }
+        ]
+    }, {
+        "_id": 634,
+        "word": "cost",
+        "translations": [{
+                "en": "cost"
+            }
+        ]
+    }, {
+        "_id": 635,
+        "word": "perierat,",
+        "translations": [{
+                "en": "lost"
+            }
+        ]
+    }, {
+        "_id": 636,
+        "word": "brunneis",
+        "translations": [{
+                "en": "brown"
+            }
+        ]
+    }, {
+        "_id": 637,
+        "word": "induere",
+        "translations": [{
+                "en": "wear"
+            }
+        ]
+    }, {
+        "_id": 638,
+        "word": "hortum",
+        "translations": [{
+                "en": "garden"
+            }
+        ]
+    }, {
+        "_id": 639,
+        "word": "aequales",
+        "translations": [{
+                "en": "equal"
+            }
+        ]
+    }, {
+        "_id": 640,
+        "word": "misit",
+        "translations": [{
+                "en": "sent"
+            }
+        ]
+    }, {
+        "_id": 641,
+        "word": "elige",
+        "translations": [{
+                "en": "choose"
+            }
+        ]
+    }, {
+        "_id": 642,
+        "word": "cecidit",
+        "translations": [{
+                "en": "fell"
+            }
+        ]
+    }, {
+        "_id": 643,
+        "word": "apta",
+        "translations": [{
+                "en": "fit"
+            }
+        ]
+    }, {
+        "_id": 644,
+        "word": "influunt",
+        "translations": [{
+                "en": "flow"
+            }
+        ]
+    }, {
+        "_id": 645,
+        "word": "pulchrae",
+        "translations": [{
+                "en": "fair"
+            }
+        ]
+    }, {
+        "_id": 646,
+        "word": "ripam",
+        "translations": [{
+                "en": "bank"
+            }
+        ]
+    }, {
+        "_id": 647,
+        "word": "colligunt",
+        "translations": [{
+                "en": "collect"
+            }
+        ]
+    }, {
+        "_id": 648,
+        "word": "salvum",
+        "translations": [{
+                "en": "save"
+            }
+        ]
+    }, {
+        "_id": 649,
+        "word": "imperium",
+        "translations": [{
+                "en": "control"
+            }
+        ]
+    }, {
+        "_id": 650,
+        "word": "decimales",
+        "translations": [{
+                "en": "decimal"
+            }
+        ]
+    }, {
+        "_id": 651,
+        "word": "aurem",
+        "translations": [{
+                "en": "ear"
+            }
+        ]
+    }, {
+        "_id": 652,
+        "word": "aliud",
+        "translations": [{
+                "en": "else"
+            }
+        ]
+    }, {
+        "_id": 653,
+        "word": "prorsus",
+        "translations": [{
+                "en": "quite"
+            }
+        ]
+    }, {
+        "_id": 654,
+        "word": "fregit,",
+        "translations": [{
+                "en": "broke"
+            }
+        ]
+    }, {
+        "_id": 655,
+        "word": "ita",
+        "translations": [{
+                "en": "case"
+            }
+        ]
+    }, {
+        "_id": 656,
+        "word": "mediam",
+        "translations": [{
+                "en": "middle"
+            }
+        ]
+    }, {
+        "_id": 657,
+        "word": "occides",
+        "translations": [{
+                "en": "kill"
+            }
+        ]
+    }, {
+        "_id": 658,
+        "word": "filius,",
+        "translations": [{
+                "en": "son"
+            }
+        ]
+    }, {
+        "_id": 659,
+        "word": "stagnum",
+        "translations": [{
+                "en": "lake"
+            }
+        ]
+    }, {
+        "_id": 660,
+        "word": "momento",
+        "translations": [{
+                "en": "moment"
+            }
+        ]
+    }, {
+        "_id": 661,
+        "word": "statera",
+        "translations": [{
+                "en": "scale"
+            }
+        ]
+    }, {
+        "_id": 662,
+        "word": "magna",
+        "translations": [{
+                "en": "loud"
+            }
+        ]
+    }, {
+        "_id": 663,
+        "word": "ver",
+        "translations": [{
+                "en": "spring"
+            }
+        ]
+    }, {
+        "_id": 664,
+        "word": "observa",
+        "translations": [{
+                "en": "observe"
+            }
+        ]
+    }, {
+        "_id": 665,
+        "word": "puer",
+        "translations": [{
+                "en": "child"
+            }
+        ]
+    }, {
+        "_id": 666,
+        "word": "rectas",
+        "translations": [{
+                "en": "straight"
+            }
+        ]
+    }, {
+        "_id": 667,
+        "word": "consonans",
+        "translations": [{
+                "en": "consonant"
+            }
+        ]
+    }, {
+        "_id": 668,
+        "word": "gentem",
+        "translations": [{
+                "en": "nation"
+            }
+        ]
+    }, {
+        "_id": 669,
+        "word": "dictionary",
+        "translations": [{
+                "en": "dictionary"
+            }
+        ]
+    }, {
+        "_id": 670,
+        "word": "lac,",
+        "translations": [{
+                "en": "milk"
+            }
+        ]
+    }, {
+        "_id": 671,
+        "word": "celeritate",
+        "translations": [{
+                "en": "speed"
+            }
+        ]
+    }, {
+        "_id": 672,
+        "word": "methodo",
+        "translations": [{
+                "en": "method"
+            }
+        ]
+    }, {
+        "_id": 673,
+        "word": "organo,",
+        "translations": [{
+                "en": "organ"
+            }
+        ]
+    }, {
+        "_id": 674,
+        "word": "redde",
+        "translations": [{
+                "en": "pay"
+            }
+        ]
+    }, {
+        "_id": 675,
+        "word": "saeculi",
+        "translations": [{
+                "en": "age"
+            }
+        ]
+    }, {
+        "_id": 676,
+        "word": "section",
+        "translations": [{
+                "en": "section"
+            }
+        ]
+    }, {
+        "_id": 677,
+        "word": "habitus",
+        "translations": [{
+                "en": "dress"
+            }
+        ]
+    }, {
+        "_id": 678,
+        "word": "nubes,",
+        "translations": [{
+                "en": "cloud"
+            }
+        ]
+    }, {
+        "_id": 679,
+        "word": "mirantique",
+        "translations": [{
+                "en": "surprise"
+            }
+        ]
+    }, {
+        "_id": 680,
+        "word": "quietum",
+        "translations": [{
+                "en": "quiet"
+            }
+        ]
+    }, {
+        "_id": 681,
+        "word": "lapis,",
+        "translations": [{
+                "en": "stone"
+            }
+        ]
+    }, {
+        "_id": 682,
+        "word": "vegrandis",
+        "translations": [{
+                "en": "tiny"
+            }
+        ]
+    }, {
+        "_id": 683,
+        "word": "ascenditur",
+        "translations": [{
+                "en": "climb"
+            }
+        ]
+    }, {
+        "_id": 684,
+        "word": "frigus",
+        "translations": [{
+                "en": "cool"
+            }
+        ]
+    }, {
+        "_id": 685,
+        "word": "consilium",
+        "translations": [{
+                "en": "design"
+            }
+        ]
+    }, {
+        "_id": 686,
+        "word": "pauper,",
+        "translations": [{
+                "en": "poor"
+            }
+        ]
+    }, {
+        "_id": 687,
+        "word": "multum",
+        "translations": [{
+                "en": "lot"
+            }
+        ]
+    }, {
+        "_id": 688,
+        "word": "experimento",
+        "translations": [{
+                "en": "experiment"
+            }
+        ]
+    }, {
+        "_id": 689,
+        "word": "imo,",
+        "translations": [{
+                "en": "bottom"
+            }
+        ]
+    }, {
+        "_id": 690,
+        "word": "key",
+        "translations": [{
+                "en": "key"
+            }
+        ]
+    }, {
+        "_id": 691,
+        "word": "ferrum,",
+        "translations": [{
+                "en": "iron"
+            }
+        ]
+    }, {
+        "_id": 692,
+        "word": "una",
+        "translations": [{
+                "en": "single"
+            }
+        ]
+    }, {
+        "_id": 693,
+        "word": "lignum",
+        "translations": [{
+                "en": "stick"
+            }
+        ]
+    }, {
+        "_id": 694,
+        "word": "flat",
+        "translations": [{
+                "en": "flat"
+            }
+        ]
+    }, {
+        "_id": 695,
+        "word": "viginti",
+        "translations": [{
+                "en": "twenty"
+            }
+        ]
+    }, {
+        "_id": 696,
+        "word": "pelle",
+        "translations": [{
+                "en": "skin"
+            }
+        ]
+    }, {
+        "_id": 697,
+        "word": "risu",
+        "translations": [{
+                "en": "smile"
+            }
+        ]
+    }, {
+        "_id": 698,
+        "word": "rimula",
+        "translations": [{
+                "en": "crease"
+            }
+        ]
+    }, {
+        "_id": 699,
+        "word": "violet,",
+        "translations": [{
+                "en": "hole"
+            }
+        ]
+    }, {
+        "_id": 700,
+        "word": "salire",
+        "translations": [{
+                "en": "jump"
+            }
+        ]
+    }, {
+        "_id": 701,
+        "word": "Praesent",
+        "translations": [{
+                "en": "baby"
+            }
+        ]
+    }, {
+        "_id": 702,
+        "word": "octo,",
+        "translations": [{
+                "en": "eight"
+            }
+        ]
+    }, {
+        "_id": 703,
+        "word": "villa",
+        "translations": [{
+                "en": "village"
+            }
+        ]
+    }, {
+        "_id": 704,
+        "word": "concurrunt",
+        "translations": [{
+                "en": "meet"
+            }
+        ]
+    }, {
+        "_id": 705,
+        "word": "radix",
+        "translations": [{
+                "en": "root"
+            }
+        ]
+    }, {
+        "_id": 706,
+        "word": "emptum",
+        "translations": [{
+                "en": "buy"
+            }
+        ]
+    }, {
+        "_id": 707,
+        "word": "resuscitabo",
+        "translations": [{
+                "en": "raise"
+            }
+        ]
+    }, {
+        "_id": 708,
+        "word": "solve",
+        "translations": [{
+                "en": "solve"
+            }
+        ]
+    }, {
+        "_id": 709,
+        "word": "ferrum",
+        "translations": [{
+                "en": "metal"
+            }
+        ]
+    }, {
+        "_id": 710,
+        "word": "sive",
+        "translations": [{
+                "en": "whether"
+            }
+        ]
+    }, {
+        "_id": 711,
+        "word": "dis",
+        "translations": [{
+                "en": "push"
+            }
+        ]
+    }, {
+        "_id": 712,
+        "word": "septem,",
+        "translations": [{
+                "en": "seven"
+            }
+        ]
+    }, {
+        "_id": 713,
+        "word": "paragraph",
+        "translations": [{
+                "en": "paragraph"
+            }
+        ]
+    }, {
+        "_id": 714,
+        "word": "tertia",
+        "translations": [{
+                "en": "third"
+            }
+        ]
+    }, {
+        "_id": 715,
+        "word": "numquid",
+        "translations": [{
+                "en": "shall"
+            }
+        ]
+    }, {
+        "_id": 716,
+        "word": "Posside",
+        "translations": [{
+                "en": "held"
+            }
+        ]
+    }, {
+        "_id": 717,
+        "word": "capillum",
+        "translations": [{
+                "en": "hair"
+            }
+        ]
+    }, {
+        "_id": 718,
+        "word": "describere",
+        "translations": [{
+                "en": "describe"
+            }
+        ]
+    }, {
+        "_id": 719,
+        "word": "cocus",
+        "translations": [{
+                "en": "cook"
+            }
+        ]
+    }, {
+        "_id": 720,
+        "word": "pavimentum",
+        "translations": [{
+                "en": "floor"
+            }
+        ]
+    }, {
+        "_id": 721,
+        "word": "aut",
+        "translations": [{
+                "en": "either"
+            }
+        ]
+    }, {
+        "_id": 722,
+        "word": "ex",
+        "translations": [{
+                "en": "result"
+            }
+        ]
+    }, {
+        "_id": 723,
+        "word": "comburet",
+        "translations": [{
+                "en": "burn"
+            }
+        ]
+    }, {
+        "_id": 724,
+        "word": "tumulus",
+        "translations": [{
+                "en": "hill"
+            }
+        ]
+    }, {
+        "_id": 725,
+        "word": "salvum",
+        "translations": [{
+                "en": "safe"
+            }
+        ]
+    }, {
+        "_id": 726,
+        "word": "cat",
+        "translations": [{
+                "en": "cat"
+            }
+        ]
+    }, {
+        "_id": 727,
+        "word": "century",
+        "translations": [{
+                "en": "century"
+            }
+        ]
+    }, {
+        "_id": 728,
+        "word": "considerate",
+        "translations": [{
+                "en": "consider"
+            }
+        ]
+    }, {
+        "_id": 729,
+        "word": "type",
+        "translations": [{
+                "en": "type"
+            }
+        ]
+    }, {
+        "_id": 730,
+        "word": "legem",
+        "translations": [{
+                "en": "law"
+            }
+        ]
+    }, {
+        "_id": 731,
+        "word": "aliquam",
+        "translations": [{
+                "en": "bit"
+            }
+        ]
+    }, {
+        "_id": 732,
+        "word": "litore",
+        "translations": [{
+                "en": "coast"
+            }
+        ]
+    }, {
+        "_id": 733,
+        "word": "rescriptum",
+        "translations": [{
+                "en": "copy"
+            }
+        ]
+    }, {
+        "_id": 734,
+        "word": "phrase",
+        "translations": [{
+                "en": "phrase"
+            }
+        ]
+    }, {
+        "_id": 735,
+        "word": "silentium",
+        "translations": [{
+                "en": "silent"
+            }
+        ]
+    }, {
+        "_id": 736,
+        "word": "tall",
+        "translations": [{
+                "en": "tall"
+            }
+        ]
+    }, {
+        "_id": 737,
+        "word": "arenam,",
+        "translations": [{
+                "en": "sand"
+            }
+        ]
+    }, {
+        "_id": 738,
+        "word": "solum",
+        "translations": [{
+                "en": "soil"
+            }
+        ]
+    }, {
+        "_id": 739,
+        "word": "volumen",
+        "translations": [{
+                "en": "roll"
+            }
+        ]
+    }, {
+        "_id": 740,
+        "word": "temperatus",
+        "translations": [{
+                "en": "temperature"
+            }
+        ]
+    }, {
+        "_id": 741,
+        "word": "digitus",
+        "translations": [{
+                "en": "finger"
+            }
+        ]
+    }, {
+        "_id": 742,
+        "word": "industria",
+        "translations": [{
+                "en": "industry"
+            }
+        ]
+    }, {
+        "_id": 743,
+        "word": "value",
+        "translations": [{
+                "en": "value"
+            }
+        ]
+    }, {
+        "_id": 744,
+        "word": "pugna",
+        "translations": [{
+                "en": "fight"
+            }
+        ]
+    }, {
+        "_id": 745,
+        "word": "mendacium",
+        "translations": [{
+                "en": "lie"
+            }
+        ]
+    }, {
+        "_id": 746,
+        "word": "percute",
+        "translations": [{
+                "en": "beat"
+            }
+        ]
+    }, {
+        "_id": 747,
+        "word": "excitant,",
+        "translations": [{
+                "en": "excite"
+            }
+        ]
+    }, {
+        "_id": 748,
+        "word": "naturalis",
+        "translations": [{
+                "en": "natural"
+            }
+        ]
+    }, {
+        "_id": 749,
+        "word": "visum",
+        "translations": [{
+                "en": "view"
+            }
+        ]
+    }, {
+        "_id": 750,
+        "word": "sensum",
+        "translations": [{
+                "en": "sense"
+            }
+        ]
+    }, {
+        "_id": 751,
+        "word": "capitale",
+        "translations": [{
+                "en": "capital"
+            }
+        ]
+    }, {
+        "_id": 752,
+        "word": "nolo",
+        "translations": [{
+                "en": "won’t"
+            }
+        ]
+    }, {
+        "_id": 753,
+        "word": "cathedra",
+        "translations": [{
+                "en": "chair"
+            }
+        ]
+    }, {
+        "_id": 754,
+        "word": "periculum,",
+        "translations": [{
+                "en": "danger"
+            }
+        ]
+    }, {
+        "_id": 755,
+        "word": "fructus",
+        "translations": [{
+                "en": "fruit"
+            }
+        ]
+    }, {
+        "_id": 756,
+        "word": "dives",
+        "translations": [{
+                "en": "rich"
+            }
+        ]
+    }, {
+        "_id": 757,
+        "word": "densa",
+        "translations": [{
+                "en": "thick"
+            }
+        ]
+    }, {
+        "_id": 758,
+        "word": "miles,",
+        "translations": [{
+                "en": "soldier"
+            }
+        ]
+    }, {
+        "_id": 759,
+        "word": "aliquid",
+        "translations": [{
+                "en": "process"
+            }
+        ]
+    }, {
+        "_id": 760,
+        "word": "operantur,",
+        "translations": [{
+                "en": "operate"
+            }
+        ]
+    }, {
+        "_id": 761,
+        "word": "praxi",
+        "translations": [{
+                "en": "practice"
+            }
+        ]
+    }, {
+        "_id": 762,
+        "word": "separatum",
+        "translations": [{
+                "en": "separate"
+            }
+        ]
+    }, {
+        "_id": 763,
+        "word": "difficile",
+        "translations": [{
+                "en": "difficult"
+            }
+        ]
+    }, {
+        "_id": 764,
+        "word": "medicus",
+        "translations": [{
+                "en": "doctor"
+            }
+        ]
+    }, {
+        "_id": 765,
+        "word": "obsecro,",
+        "translations": [{
+                "en": "please"
+            }
+        ]
+    }, {
+        "_id": 766,
+        "word": "protegat",
+        "translations": [{
+                "en": "protect"
+            }
+        ]
+    }, {
+        "_id": 767,
+        "word": "meridies",
+        "translations": [{
+                "en": "noon"
+            }
+        ]
+    }, {
+        "_id": 768,
+        "word": "seges,",
+        "translations": [{
+                "en": "crop"
+            }
+        ]
+    }, {
+        "_id": 769,
+        "word": "modern",
+        "translations": [{
+                "en": "modern"
+            }
+        ]
+    }, {
+        "_id": 770,
+        "word": "aliquid",
+        "translations": [{
+                "en": "element"
+            }
+        ]
+    }, {
+        "_id": 771,
+        "word": "ictus",
+        "translations": [{
+                "en": "hit"
+            }
+        ]
+    }, {
+        "_id": 772,
+        "word": "discipulo",
+        "translations": [{
+                "en": "student"
+            }
+        ]
+    }, {
+        "_id": 773,
+        "word": "anguli",
+        "translations": [{
+                "en": "corner"
+            }
+        ]
+    }, {
+        "_id": 774,
+        "word": "pars",
+        "translations": [{
+                "en": "party"
+            }
+        ]
+    }, {
+        "_id": 775,
+        "word": "copia",
+        "translations": [{
+                "en": "supply"
+            }
+        ]
+    }, {
+        "_id": 776,
+        "word": "cuius",
+        "translations": [{
+                "en": "whose"
+            }
+        ]
+    }, {
+        "_id": 777,
+        "word": "locant",
+        "translations": [{
+                "en": "locate"
+            }
+        ]
+    }, {
+        "_id": 778,
+        "word": "orbis",
+        "translations": [{
+                "en": "ring"
+            }
+        ]
+    }, {
+        "_id": 779,
+        "word": "character",
+        "translations": [{
+                "en": "character"
+            }
+        ]
+    }, {
+        "_id": 780,
+        "word": "insect",
+        "translations": [{
+                "en": "insect"
+            }
+        ]
+    }, {
+        "_id": 781,
+        "word": "captus",
+        "translations": [{
+                "en": "caught"
+            }
+        ]
+    }, {
+        "_id": 782,
+        "word": "tempus",
+        "translations": [{
+                "en": "period"
+            }
+        ]
+    }, {
+        "_id": 783,
+        "word": "indica",
+        "translations": [{
+                "en": "indicate"
+            }
+        ]
+    }, {
+        "_id": 784,
+        "word": "radio",
+        "translations": [{
+                "en": "radio"
+            }
+        ]
+    }, {
+        "_id": 785,
+        "word": "Locutusque",
+        "translations": [{
+                "en": "spoke"
+            }
+        ]
+    }, {
+        "_id": 786,
+        "word": "atom",
+        "translations": [{
+                "en": "atom"
+            }
+        ]
+    }, {
+        "_id": 787,
+        "word": "hominis",
+        "translations": [{
+                "en": "human"
+            }
+        ]
+    }, {
+        "_id": 788,
+        "word": "rerum",
+        "translations": [{
+                "en": "history"
+            }
+        ]
+    }, {
+        "_id": 789,
+        "word": "effectus",
+        "translations": [{
+                "en": "effect"
+            }
+        ]
+    }, {
+        "_id": 790,
+        "word": "electrica",
+        "translations": [{
+                "en": "electric"
+            }
+        ]
+    }, {
+        "_id": 791,
+        "word": "sperare",
+        "translations": [{
+                "en": "expect"
+            }
+        ]
+    }, {
+        "_id": 792,
+        "word": "osse",
+        "translations": [{
+                "en": "bone"
+            }
+        ]
+    }, {
+        "_id": 793,
+        "word": "cogitis",
+        "translations": [{
+                "en": "rail"
+            }
+        ]
+    }, {
+        "_id": 794,
+        "word": "imaginari",
+        "translations": [{
+                "en": "imagine"
+            }
+        ]
+    }, {
+        "_id": 795,
+        "word": "praestare",
+        "translations": [{
+                "en": "provide"
+            }
+        ]
+    }, {
+        "_id": 796,
+        "word": "conveniunt",
+        "translations": [{
+                "en": "agree"
+            }
+        ]
+    }, {
+        "_id": 797,
+        "word": "ita",
+        "translations": [{
+                "en": "thus"
+            }
+        ]
+    }, {
+        "_id": 798,
+        "word": "mitis",
+        "translations": [{
+                "en": "gentle"
+            }
+        ]
+    }, {
+        "_id": 799,
+        "word": "mulier,",
+        "translations": [{
+                "en": "woman"
+            }
+        ]
+    }, {
+        "_id": 800,
+        "word": "dux",
+        "translations": [{
+                "en": "captain"
+            }
+        ]
+    }, {
+        "_id": 801,
+        "word": "Suspicor",
+        "translations": [{
+                "en": "guess"
+            }
+        ]
+    }, {
+        "_id": 802,
+        "word": "necesse",
+        "translations": [{
+                "en": "necessary"
+            }
+        ]
+    }, {
+        "_id": 803,
+        "word": "acutum,",
+        "translations": [{
+                "en": "sharp"
+            }
+        ]
+    }, {
+        "_id": 804,
+        "word": "alae",
+        "translations": [{
+                "en": "wing"
+            }
+        ]
+    }, {
+        "_id": 805,
+        "word": "partum",
+        "translations": [{
+                "en": "create"
+            }
+        ]
+    }, {
+        "_id": 806,
+        "word": "proximus,",
+        "translations": [{
+                "en": "neighbor"
+            }
+        ]
+    }, {
+        "_id": 807,
+        "word": "lava",
+        "translations": [{
+                "en": "wash"
+            }
+        ]
+    }, {
+        "_id": 808,
+        "word": "Biblia",
+        "translations": [{
+                "en": "bat"
+            }
+        ]
+    }, {
+        "_id": 809,
+        "word": "potius,",
+        "translations": [{
+                "en": "rather"
+            }
+        ]
+    }, {
+        "_id": 810,
+        "word": "turba,",
+        "translations": [{
+                "en": "crowd"
+            }
+        ]
+    }, {
+        "_id": 811,
+        "word": "frumentum,",
+        "translations": [{
+                "en": "corn"
+            }
+        ]
+    }, {
+        "_id": 812,
+        "word": "compare",
+        "translations": [{
+                "en": "compare"
+            }
+        ]
+    }, {
+        "_id": 813,
+        "word": "poem",
+        "translations": [{
+                "en": "poem"
+            }
+        ]
+    }, {
+        "_id": 814,
+        "word": "nervo",
+        "translations": [{
+                "en": "string"
+            }
+        ]
+    }, {
+        "_id": 815,
+        "word": "tintinnabulum",
+        "translations": [{
+                "en": "bell"
+            }
+        ]
+    }, {
+        "_id": 816,
+        "word": "ex",
+        "translations": [{
+                "en": "depend"
+            }
+        ]
+    }, {
+        "_id": 817,
+        "word": "cibum",
+        "translations": [{
+                "en": "meat"
+            }
+        ]
+    }, {
+        "_id": 818,
+        "word": "fricabis",
+        "translations": [{
+                "en": "rub"
+            }
+        ]
+    }, {
+        "_id": 819,
+        "word": "tube",
+        "translations": [{
+                "en": "tube"
+            }
+        ]
+    }, {
+        "_id": 820,
+        "word": "celebre",
+        "translations": [{
+                "en": "famous"
+            }
+        ]
+    }, {
+        "_id": 821,
+        "word": "pupa",
+        "translations": [{
+                "en": "dollar"
+            }
+        ]
+    }, {
+        "_id": 822,
+        "word": "fluvius",
+        "translations": [{
+                "en": "stream"
+            }
+        ]
+    }, {
+        "_id": 823,
+        "word": "timore",
+        "translations": [{
+                "en": "fear"
+            }
+        ]
+    }, {
+        "_id": 824,
+        "word": "visum",
+        "translations": [{
+                "en": "sight"
+            }
+        ]
+    }, {
+        "_id": 825,
+        "word": "tenuis",
+        "translations": [{
+                "en": "thin"
+            }
+        ]
+    }, {
+        "_id": 826,
+        "word": "triangulo",
+        "translations": [{
+                "en": "triangle"
+            }
+        ]
+    }, {
+        "_id": 827,
+        "word": "planeta",
+        "translations": [{
+                "en": "planet"
+            }
+        ]
+    }, {
+        "_id": 828,
+        "word": "festinate",
+        "translations": [{
+                "en": "hurry"
+            }
+        ]
+    }, {
+        "_id": 829,
+        "word": "princeps",
+        "translations": [{
+                "en": "chief"
+            }
+        ]
+    }, {
+        "_id": 830,
+        "word": "coloniam",
+        "translations": [{
+                "en": "colony"
+            }
+        ]
+    }, {
+        "_id": 831,
+        "word": "horologium",
+        "translations": [{
+                "en": "clock"
+            }
+        ]
+    }, {
+        "_id": 832,
+        "word": "mea",
+        "translations": [{
+                "en": "mine"
+            }
+        ]
+    }, {
+        "_id": 833,
+        "word": "tatem",
+        "translations": [{
+                "en": "tie"
+            }
+        ]
+    }, {
+        "_id": 834,
+        "word": "intrant",
+        "translations": [{
+                "en": "enter"
+            }
+        ]
+    }, {
+        "_id": 835,
+        "word": "major",
+        "translations": [{
+                "en": "major"
+            }
+        ]
+    }, {
+        "_id": 836,
+        "word": "recentes",
+        "translations": [{
+                "en": "fresh"
+            }
+        ]
+    }, {
+        "_id": 837,
+        "word": "quaerere",
+        "translations": [{
+                "en": "search"
+            }
+        ]
+    }, {
+        "_id": 838,
+        "word": "mitto",
+        "translations": [{
+                "en": "send"
+            }
+        ]
+    }, {
+        "_id": 839,
+        "word": "flavis",
+        "translations": [{
+                "en": "yellow"
+            }
+        ]
+    }, {
+        "_id": 840,
+        "word": "gun",
+        "translations": [{
+                "en": "gun"
+            }
+        ]
+    }, {
+        "_id": 841,
+        "word": "sino",
+        "translations": [{
+                "en": "allow"
+            }
+        ]
+    }, {
+        "_id": 842,
+        "word": "print",
+        "translations": [{
+                "en": "print"
+            }
+        ]
+    }, {
+        "_id": 843,
+        "word": "mortuus,",
+        "translations": [{
+                "en": "dead"
+            }
+        ]
+    }, {
+        "_id": 844,
+        "word": "locum",
+        "translations": [{
+                "en": "spot"
+            }
+        ]
+    }, {
+        "_id": 845,
+        "word": "deserto",
+        "translations": [{
+                "en": "desert"
+            }
+        ]
+    }, {
+        "_id": 846,
+        "word": "sectam",
+        "translations": [{
+                "en": "suit"
+            }
+        ]
+    }, {
+        "_id": 847,
+        "word": "current",
+        "translations": [{
+                "en": "current"
+            }
+        ]
+    }, {
+        "_id": 848,
+        "word": "vitae",
+        "translations": [{
+                "en": "lift"
+            }
+        ]
+    }, {
+        "_id": 849,
+        "word": "surrexit",
+        "translations": [{
+                "en": "rose"
+            }
+        ]
+    }, {
+        "_id": 850,
+        "word": "perveniunt",
+        "translations": [{
+                "en": "arrive"
+            }
+        ]
+    }, {
+        "_id": 851,
+        "word": "magister",
+        "translations": [{
+                "en": "master"
+            }
+        ]
+    }, {
+        "_id": 852,
+        "word": "semita",
+        "translations": [{
+                "en": "track"
+            }
+        ]
+    }, {
+        "_id": 853,
+        "word": "parente",
+        "translations": [{
+                "en": "parent"
+            }
+        ]
+    }, {
+        "_id": 854,
+        "word": "litore",
+        "translations": [{
+                "en": "shore"
+            }
+        ]
+    }, {
+        "_id": 855,
+        "word": "divisione",
+        "translations": [{
+                "en": "division"
+            }
+        ]
+    }, {
+        "_id": 856,
+        "word": "linteum",
+        "translations": [{
+                "en": "sheet"
+            }
+        ]
+    }, {
+        "_id": 857,
+        "word": "substantia",
+        "translations": [{
+                "en": "substance"
+            }
+        ]
+    }, {
+        "_id": 858,
+        "word": "gratiam",
+        "translations": [{
+                "en": "favor"
+            }
+        ]
+    }, {
+        "_id": 859,
+        "word": "Pertinent",
+        "translations": [{
+                "en": "connect"
+            }
+        ]
+    }, {
+        "_id": 860,
+        "word": "post",
+        "translations": [{
+                "en": "post"
+            }
+        ]
+    }, {
+        "_id": 861,
+        "word": "expendas",
+        "translations": [{
+                "en": "spend"
+            }
+        ]
+    }, {
+        "_id": 862,
+        "word": "chorda",
+        "translations": [{
+                "en": "chord"
+            }
+        ]
+    }, {
+        "_id": 863,
+        "word": "adipem",
+        "translations": [{
+                "en": "fat"
+            }
+        ]
+    }, {
+        "_id": 864,
+        "word": "gavisus",
+        "translations": [{
+                "en": "glad"
+            }
+        ]
+    }, {
+        "_id": 865,
+        "word": "original",
+        "translations": [{
+                "en": "original"
+            }
+        ]
+    }, {
+        "_id": 866,
+        "word": "share",
+        "translations": [{
+                "en": "share"
+            }
+        ]
+    }, {
+        "_id": 867,
+        "word": "statio",
+        "translations": [{
+                "en": "station"
+            }
+        ]
+    }, {
+        "_id": 868,
+        "word": "Pater",
+        "translations": [{
+                "en": "dad"
+            }
+        ]
+    }, {
+        "_id": 869,
+        "word": "panem",
+        "translations": [{
+                "en": "bread"
+            }
+        ]
+    }, {
+        "_id": 870,
+        "word": "Testificor",
+        "translations": [{
+                "en": "charge"
+            }
+        ]
+    }, {
+        "_id": 871,
+        "word": "proprium",
+        "translations": [{
+                "en": "proper"
+            }
+        ]
+    }, {
+        "_id": 872,
+        "word": "bar",
+        "translations": [{
+                "en": "bar"
+            }
+        ]
+    }, {
+        "_id": 873,
+        "word": "offer",
+        "translations": [{
+                "en": "offer"
+            }
+        ]
+    }, {
+        "_id": 874,
+        "word": "segmentum",
+        "translations": [{
+                "en": "segment"
+            }
+        ]
+    }, {
+        "_id": 875,
+        "word": "servus",
+        "translations": [{
+                "en": "slave"
+            }
+        ]
+    }, {
+        "_id": 876,
+        "word": "anas,",
+        "translations": [{
+                "en": "duck"
+            }
+        ]
+    }, {
+        "_id": 877,
+        "word": "instant",
+        "translations": [{
+                "en": "instant"
+            }
+        ]
+    }, {
+        "_id": 878,
+        "word": "ipsum",
+        "translations": [{
+                "en": "market"
+            }
+        ]
+    }, {
+        "_id": 879,
+        "word": "gradum",
+        "translations": [{
+                "en": "degree"
+            }
+        ]
+    }, {
+        "_id": 880,
+        "word": "frequentare",
+        "translations": [{
+                "en": "populate"
+            }
+        ]
+    }, {
+        "_id": 881,
+        "word": "pullus",
+        "translations": [{
+                "en": "chick"
+            }
+        ]
+    }, {
+        "_id": 882,
+        "word": "carissimi,",
+        "translations": [{
+                "en": "dear"
+            }
+        ]
+    }, {
+        "_id": 883,
+        "word": "hostem",
+        "translations": [{
+                "en": "enemy"
+            }
+        ]
+    }, {
+        "_id": 884,
+        "word": "respondeo",
+        "translations": [{
+                "en": "reply"
+            }
+        ]
+    }, {
+        "_id": 885,
+        "word": "potum",
+        "translations": [{
+                "en": "drink"
+            }
+        ]
+    }, {
+        "_id": 886,
+        "word": "incididunt",
+        "translations": [{
+                "en": "occur"
+            }
+        ]
+    }, {
+        "_id": 887,
+        "word": "auxilium",
+        "translations": [{
+                "en": "support"
+            }
+        ]
+    }, {
+        "_id": 888,
+        "word": "oratio",
+        "translations": [{
+                "en": "speech"
+            }
+        ]
+    }, {
+        "_id": 889,
+        "word": "natura",
+        "translations": [{
+                "en": "nature"
+            }
+        ]
+    }, {
+        "_id": 890,
+        "word": "range",
+        "translations": [{
+                "en": "range"
+            }
+        ]
+    }, {
+        "_id": 891,
+        "word": "vapor",
+        "translations": [{
+                "en": "steam"
+            }
+        ]
+    }, {
+        "_id": 892,
+        "word": "motus",
+        "translations": [{
+                "en": "motion"
+            }
+        ]
+    }, {
+        "_id": 893,
+        "word": "semita",
+        "translations": [{
+                "en": "path"
+            }
+        ]
+    }, {
+        "_id": 894,
+        "word": "liquidum",
+        "translations": [{
+                "en": "liquid"
+            }
+        ]
+    }, {
+        "_id": 895,
+        "word": "stipes",
+        "translations": [{
+                "en": "log"
+            }
+        ]
+    }, {
+        "_id": 896,
+        "word": "intelligantur",
+        "translations": [{
+                "en": "meant"
+            }
+        ]
+    }, {
+        "_id": 897,
+        "word": "quotus",
+        "translations": [{
+                "en": "quotient"
+            }
+        ]
+    }, {
+        "_id": 898,
+        "word": "dentium",
+        "translations": [{
+                "en": "teeth"
+            }
+        ]
+    }, {
+        "_id": 899,
+        "word": "testa",
+        "translations": [{
+                "en": "shell"
+            }
+        ]
+    }, {
+        "_id": 900,
+        "word": "cervicibus",
+        "translations": [{
+                "en": "neck"
+            }
+        ]
+    }, {
+        "_id": 901,
+        "word": "dolor",
+        "translations": [{
+                "en": "oxygen"
+            }
+        ]
+    }, {
+        "_id": 902,
+        "word": "sugar",
+        "translations": [{
+                "en": "sugar"
+            }
+        ]
+    }, {
+        "_id": 903,
+        "word": "mortem",
+        "translations": [{
+                "en": "death"
+            }
+        ]
+    }, {
+        "_id": 904,
+        "word": "bellum",
+        "translations": [{
+                "en": "pretty"
+            }
+        ]
+    }, {
+        "_id": 905,
+        "word": "peritia",
+        "translations": [{
+                "en": "skill"
+            }
+        ]
+    }, {
+        "_id": 906,
+        "word": "mulieres,",
+        "translations": [{
+                "en": "women"
+            }
+        ]
+    }, {
+        "_id": 907,
+        "word": "tempore",
+        "translations": [{
+                "en": "season"
+            }
+        ]
+    }, {
+        "_id": 908,
+        "word": "solutio",
+        "translations": [{
+                "en": "solution"
+            }
+        ]
+    }, {
+        "_id": 909,
+        "word": "magnes",
+        "translations": [{
+                "en": "magnet"
+            }
+        ]
+    }, {
+        "_id": 910,
+        "word": "argentum,",
+        "translations": [{
+                "en": "silver"
+            }
+        ]
+    }, {
+        "_id": 911,
+        "word": "gratias",
+        "translations": [{
+                "en": "thank"
+            }
+        ]
+    }, {
+        "_id": 912,
+        "word": "ramum",
+        "translations": [{
+                "en": "branch"
+            }
+        ]
+    }, {
+        "_id": 913,
+        "word": "par",
+        "translations": [{
+                "en": "match"
+            }
+        ]
+    }, {
+        "_id": 914,
+        "word": "etiamne",
+        "translations": [{
+                "en": "suffix"
+            }
+        ]
+    }, {
+        "_id": 915,
+        "word": "maxime",
+        "translations": [{
+                "en": "especially"
+            }
+        ]
+    }, {
+        "_id": 916,
+        "word": "fig",
+        "translations": [{
+                "en": "fig"
+            }
+        ]
+    }, {
+        "_id": 917,
+        "word": "timere",
+        "translations": [{
+                "en": "afraid"
+            }
+        ]
+    }, {
+        "_id": 918,
+        "word": "ingenti",
+        "translations": [{
+                "en": "huge"
+            }
+        ]
+    }, {
+        "_id": 919,
+        "word": "soror",
+        "translations": [{
+                "en": "sister"
+            }
+        ]
+    }, {
+        "_id": 920,
+        "word": "ferrum,",
+        "translations": [{
+                "en": "steel"
+            }
+        ]
+    }, {
+        "_id": 921,
+        "word": "disputant",
+        "translations": [{
+                "en": "discuss"
+            }
+        ]
+    }, {
+        "_id": 922,
+        "word": "et deinceps",
+        "translations": [{
+                "en": "forward"
+            }
+        ]
+    }, {
+        "_id": 923,
+        "word": "simile",
+        "translations": [{
+                "en": "similar"
+            }
+        ]
+    }, {
+        "_id": 924,
+        "word": "dirige",
+        "translations": [{
+                "en": "guide"
+            }
+        ]
+    }, {
+        "_id": 925,
+        "word": "experientiam,",
+        "translations": [{
+                "en": "experience"
+            }
+        ]
+    }, {
+        "_id": 926,
+        "word": "Octoginta",
+        "translations": [{
+                "en": "score"
+            }
+        ]
+    }, {
+        "_id": 927,
+        "word": "pupillam",
+        "translations": [{
+                "en": "apple"
+            }
+        ]
+    }, {
+        "_id": 928,
+        "word": "emptum",
+        "translations": [{
+                "en": "bought"
+            }
+        ]
+    }, {
+        "_id": 929,
+        "word": "ductus",
+        "translations": [{
+                "en": "led"
+            }
+        ]
+    }, {
+        "_id": 930,
+        "word": "picem",
+        "translations": [{
+                "en": "pitch"
+            }
+        ]
+    }, {
+        "_id": 931,
+        "word": "tunica",
+        "translations": [{
+                "en": "coat"
+            }
+        ]
+    }, {
+        "_id": 932,
+        "word": "missa",
+        "translations": [{
+                "en": "mass"
+            }
+        ]
+    }, {
+        "_id": 933,
+        "word": "pecto",
+        "translations": [{
+                "en": "card"
+            }
+        ]
+    }, {
+        "_id": 934,
+        "word": "cohors",
+        "translations": [{
+                "en": "band"
+            }
+        ]
+    }, {
+        "_id": 935,
+        "word": "fune",
+        "translations": [{
+                "en": "rope"
+            }
+        ]
+    }, {
+        "_id": 936,
+        "word": "labente",
+        "translations": [{
+                "en": "slip"
+            }
+        ]
+    }, {
+        "_id": 937,
+        "word": "vincere",
+        "translations": [{
+                "en": "win"
+            }
+        ]
+    }, {
+        "_id": 938,
+        "word": "somniatis",
+        "translations": [{
+                "en": "dream"
+            }
+        ]
+    }, {
+        "_id": 939,
+        "word": "ad vesperum",
+        "translations": [{
+                "en": "evening"
+            }
+        ]
+    }, {
+        "_id": 940,
+        "word": "condicionis",
+        "translations": [{
+                "en": "condition"
+            }
+        ]
+    }, {
+        "_id": 941,
+        "word": "pascuntur",
+        "translations": [{
+                "en": "feed"
+            }
+        ]
+    }, {
+        "_id": 942,
+        "word": "ferramentum",
+        "translations": [{
+                "en": "tool"
+            }
+        ]
+    }, {
+        "_id": 943,
+        "word": "totalis",
+        "translations": [{
+                "en": "total"
+            }
+        ]
+    }, {
+        "_id": 944,
+        "word": "prima",
+        "translations": [{
+                "en": "basic"
+            }
+        ]
+    }, {
+        "_id": 945,
+        "word": "olfactus",
+        "translations": [{
+                "en": "smell"
+            }
+        ]
+    }, {
+        "_id": 946,
+        "word": "vallis",
+        "translations": [{
+                "en": "valley"
+            }
+        ]
+    }, {
+        "_id": 947,
+        "word": "neque",
+        "translations": [{
+                "en": "nor"
+            }
+        ]
+    }, {
+        "_id": 948,
+        "word": "duplex",
+        "translations": [{
+                "en": "double"
+            }
+        ]
+    }, {
+        "_id": 949,
+        "word": "cathedra",
+        "translations": [{
+                "en": "seat"
+            }
+        ]
+    }, {
+        "_id": 950,
+        "word": "perseverant",
+        "translations": [{
+                "en": "continue"
+            }
+        ]
+    }, {
+        "_id": 951,
+        "word": "clausus",
+        "translations": [{
+                "en": "block"
+            }
+        ]
+    }, {
+        "_id": 952,
+        "word": "cursus",
+        "translations": [{
+                "en": "chart"
+            }
+        ]
+    }, {
+        "_id": 953,
+        "word": "hat",
+        "translations": [{
+                "en": "hat"
+            }
+        ]
+    }, {
+        "_id": 954,
+        "word": "vende,",
+        "translations": [{
+                "en": "sell"
+            }
+        ]
+    }, {
+        "_id": 955,
+        "word": "successu",
+        "translations": [{
+                "en": "success"
+            }
+        ]
+    }, {
+        "_id": 956,
+        "word": "comitatu",
+        "translations": [{
+                "en": "company"
+            }
+        ]
+    }, {
+        "_id": 957,
+        "word": "Auferatur",
+        "translations": [{
+                "en": "subtract"
+            }
+        ]
+    }, {
+        "_id": 958,
+        "word": "eventus",
+        "translations": [{
+                "en": "event"
+            }
+        ]
+    }, {
+        "_id": 959,
+        "word": "particularis",
+        "translations": [{
+                "en": "particular"
+            }
+        ]
+    }, {
+        "_id": 960,
+        "word": "multum",
+        "translations": [{
+                "en": "deal"
+            }
+        ]
+    }, {
+        "_id": 961,
+        "word": "natant",
+        "translations": [{
+                "en": "swim"
+            }
+        ]
+    }, {
+        "_id": 962,
+        "word": "term",
+        "translations": [{
+                "en": "term"
+            }
+        ]
+    }, {
+        "_id": 963,
+        "word": "oppositi",
+        "translations": [{
+                "en": "opposite"
+            }
+        ]
+    }, {
+        "_id": 964,
+        "word": "uxorem",
+        "translations": [{
+                "en": "wife"
+            }
+        ]
+    }, {
+        "_id": 965,
+        "word": "calceum",
+        "translations": [{
+                "en": "shoe"
+            }
+        ]
+    }, {
+        "_id": 966,
+        "word": "umero",
+        "translations": [{
+                "en": "shoulder"
+            }
+        ]
+    }, {
+        "_id": 967,
+        "word": "expandit",
+        "translations": [{
+                "en": "spread"
+            }
+        ]
+    }, {
+        "_id": 968,
+        "word": "disponere,",
+        "translations": [{
+                "en": "arrange"
+            }
+        ]
+    }, {
+        "_id": 969,
+        "word": "castra",
+        "translations": [{
+                "en": "camp"
+            }
+        ]
+    }, {
+        "_id": 970,
+        "word": "confingunt",
+        "translations": [{
+                "en": "invent"
+            }
+        ]
+    }, {
+        "_id": 971,
+        "word": "bombicis",
+        "translations": [{
+                "en": "cotton"
+            }
+        ]
+    }, {
+        "_id": 972,
+        "word": "natus,",
+        "translations": [{
+                "en": "born"
+            }
+        ]
+    }, {
+        "_id": 973,
+        "word": "statuere",
+        "translations": [{
+                "en": "determine"
+            }
+        ]
+    }, {
+        "_id": 974,
+        "word": "quart",
+        "translations": [{
+                "en": "quart"
+            }
+        ]
+    }, {
+        "_id": 975,
+        "word": "novem,",
+        "translations": [{
+                "en": "nine"
+            }
+        ]
+    }, {
+        "_id": 976,
+        "word": "dolor",
+        "translations": [{
+                "en": "truck"
+            }
+        ]
+    }, {
+        "_id": 977,
+        "word": "sonus",
+        "translations": [{
+                "en": "noise"
+            }
+        ]
+    }, {
+        "_id": 978,
+        "word": "plana",
+        "translations": [{
+                "en": "level"
+            }
+        ]
+    }, {
+        "_id": 979,
+        "word": "forte",
+        "translations": [{
+                "en": "chance"
+            }
+        ]
+    }, {
+        "_id": 980,
+        "word": "congregate",
+        "translations": [{
+                "en": "gather"
+            }
+        ]
+    }, {
+        "_id": 981,
+        "word": "taberna",
+        "translations": [{
+                "en": "shop"
+            }
+        ]
+    }, {
+        "_id": 982,
+        "word": "tractum",
+        "translations": [{
+                "en": "stretch"
+            }
+        ]
+    }, {
+        "_id": 983,
+        "word": "mittite",
+        "translations": [{
+                "en": "throw"
+            }
+        ]
+    }, {
+        "_id": 984,
+        "word": "luceat",
+        "translations": [{
+                "en": "shine"
+            }
+        ]
+    }, {
+        "_id": 985,
+        "word": "proprietate",
+        "translations": [{
+                "en": "property"
+            }
+        ]
+    }, {
+        "_id": 986,
+        "word": "column",
+        "translations": [{
+                "en": "column"
+            }
+        ]
+    }, {
+        "_id": 987,
+        "word": "moleculo",
+        "translations": [{
+                "en": "molecule"
+            }
+        ]
+    }, {
+        "_id": 988,
+        "word": "eligere,",
+        "translations": [{
+                "en": "select"
+            }
+        ]
+    }, {
+        "_id": 989,
+        "word": "iniuriam",
+        "translations": [{
+                "en": "wrong"
+            }
+        ]
+    }, {
+        "_id": 990,
+        "word": "gray",
+        "translations": [{
+                "en": "gray"
+            }
+        ]
+    }, {
+        "_id": 991,
+        "word": "iterum",
+        "translations": [{
+                "en": "repeat"
+            }
+        ]
+    }, {
+        "_id": 992,
+        "word": "requirunt",
+        "translations": [{
+                "en": "require"
+            }
+        ]
+    }, {
+        "_id": 993,
+        "word": "lata,",
+        "translations": [{
+                "en": "broad"
+            }
+        ]
+    }, {
+        "_id": 994,
+        "word": "praeparabit",
+        "translations": [{
+                "en": "prepare"
+            }
+        ]
+    }, {
+        "_id": 995,
+        "word": "sal,",
+        "translations": [{
+                "en": "salt"
+            }
+        ]
+    }, {
+        "_id": 996,
+        "word": "nasum",
+        "translations": [{
+                "en": "nose"
+            }
+        ]
+    }, {
+        "_id": 997,
+        "word": "plural",
+        "translations": [{
+                "en": "plural"
+            }
+        ]
+    }, {
+        "_id": 998,
+        "word": "iratus",
+        "translations": [{
+                "en": "anger"
+            }
+        ]
+    }, {
+        "_id": 999,
+        "word": "clamium",
+        "translations": [{
+                "en": "claim"
+            }
+        ]
+    }, {
+        "_id": 1000,
+        "word": "continentem,",
+        "translations": [{
+                "en": "continent"
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+	{
+        "_id": 0,
+		"word": "Java",
+        "transcription": "ˈdʒɑːvə",
+        "translation": "1) о-в Ява \n 2) яванский кофе \n 3) язык программирования №1"
+    },
+	{
+        "_id": 1,
+		"word": "Elongated",
+        "transcription": "'iːlɔŋgeɪtɪd",
+        "translation": "вытянутый, удлинённый, продолговатый"
+    },
+	{
+        "_id": 2,
+		"word": "Ripe",
+	    "transcription": "'raɪp",
+        "translation": "зрелый, созревший, спелый (о фруктах, зерне и т. п.)"
+    },
+	{
+        "_id": 3,
+		"word": "Leguminous",
+        "transcription": "'lɪ'gjuːmɪnəs",
+		"translation": "бобовый; стручковый"
+    }
+
+]
